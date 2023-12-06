@@ -1,0 +1,2042 @@
+| genres                                              | movie_count |
+| --------------------------------------------------- | ----------- |
+| Drama                                               |         712 |
+| Comedy                                              |         712 |
+| Documentary                                         |         312 |
+| Drama|Romance                                       |         289 |
+| Comedy|Drama                                        |         280 |
+| Comedy|Romance                                      |         268 |
+| Horror|Thriller                                     |         259 |
+| Horror                                              |         253 |
+| Comedy|Drama|Romance                                |         222 |
+| Drama|Thriller                                      |         138 |
+| Comedy|Family                                       |         102 |
+| Action|Thriller                                     |         101 |
+| Thriller                                            |          93 |
+| Drama|Comedy                                        |          92 |
+| Animation|Family                                    |          90 |
+| Crime|Drama|Thriller                                |          81 |
+| Crime|Drama                                         |          74 |
+| Comedy|Horror                                       |          72 |
+| Drama|Comedy|Romance                                |          64 |
+| Action                                              |          63 |
+| Action|Comedy                                       |          62 |
+| Drama|History                                       |          58 |
+| Action|Crime|Drama|Thriller                         |          54 |
+| Drama|Horror|Thriller                               |          53 |
+| Horror|Science Fiction                              |          52 |
+| Action|Crime|Thriller                               |          52 |
+| Horror|Mystery|Thriller                             |          51 |
+| Comedy|Crime                                        |          50 |
+| Drama|Music                                         |          49 |
+| Documentary|Music                                   |          49 |
+| Thriller|Horror                                     |          47 |
+| Animation|Comedy|Family                             |          47 |
+| Action|Drama|Thriller                               |          47 |
+| Drama|Family                                        |          46 |
+| Drama|Crime                                         |          44 |
+| Action|Adventure|Thriller                           |          42 |
+| Comedy|Drama|Family                                 |          41 |
+| Romance|Comedy                                      |          40 |
+| Drama|Mystery|Thriller                              |          38 |
+| Action|Comedy|Crime                                 |          37 |
+| Science Fiction                                     |          36 |
+| Romance|Drama                                       |          35 |
+| Thriller|Drama                                      |          33 |
+| Action|Science Fiction                              |          33 |
+| Action|Adventure|Comedy                             |          33 |
+| Horror|Science Fiction|Thriller                     |          32 |
+| Animation                                           |          32 |
+| Drama|Action|Thriller|Crime                         |          31 |
+| Action|Drama                                        |          31 |
+| Crime|Drama|Mystery|Thriller                        |          29 |
+| Action|Thriller|Crime                               |          29 |
+| Drama|War                                           |          27 |
+| Drama|Thriller|Crime                                |          27 |
+| Horror|Comedy                                       |          26 |
+| Adventure|Action|Thriller                           |          26 |
+| Science Fiction|Thriller                            |          25 |
+| Mystery|Thriller                                    |          25 |
+| Horror|Thriller|Mystery                             |          25 |
+| Horror|Mystery                                      |          25 |
+| Drama|History|War                                   |          25 |
+| Comedy|Music                                        |          25 |
+| Drama|Horror                                        |          24 |
+| Comedy|Romance|Drama                                |          24 |
+| Action|Adventure|Drama|Thriller                     |          24 |
+| Thriller|Crime|Drama                                |          23 |
+| Music                                               |          23 |
+| Family|Animation                                    |          23 |
+| Crime|Thriller                                      |          23 |
+| Action|Thriller|Science Fiction                     |          23 |
+| Action|Adventure|Science Fiction                    |          23 |
+|                                                     |          23 |
+| Romance|Comedy|Drama                                |          22 |
+| Drama|Music|Romance                                 |          22 |
+| Adventure                                           |          22 |
+| Thriller|Mystery                                    |          21 |
+| Drama|Foreign                                       |          21 |
+| Comedy|Science Fiction                              |          21 |
+| Drama|Thriller|Mystery                              |          20 |
+| Animation|Comedy                                    |          20 |
+| Action|Crime                                        |          20 |
+| Drama|History|Romance                               |          19 |
+| Western                                             |          18 |
+| Drama|Science Fiction                               |          18 |
+| Drama|Horror|Mystery|Thriller                       |          18 |
+| Crime|Drama|Mystery                                 |          18 |
+| Comedy|Crime|Drama                                  |          18 |
+| Adventure|Drama                                     |          18 |
+| Action|Science Fiction|Thriller                     |          18 |
+| Action|Crime|Drama                                  |          17 |
+| Music|Documentary                                   |          16 |
+| History|Drama                                       |          16 |
+| Family                                              |          16 |
+| Drama|Mystery                                       |          16 |
+| Adventure|Fantasy|Action                            |          16 |
+| Action|Comedy|Thriller                              |          16 |
+| Action|Adventure                                    |          15 |
+| Thriller|Science Fiction                            |          14 |
+| Thriller|Crime                                      |          14 |
+| Drama|Romance|Thriller                              |          14 |
+| Comedy|Family|Fantasy                               |          14 |
+| Comedy|Documentary                                  |          14 |
+| Adventure|Family|Fantasy                            |          14 |
+| Adventure|Drama|Family                              |          14 |
+| Adventure|Animation|Family                          |          14 |
+| Action|Adventure|Drama|Family                       |          14 |
+| Action|Adventure|Crime|Thriller                     |          14 |
+| Thriller|Horror|Mystery                             |          13 |
+| Music|Drama                                         |          13 |
+| Horror|Thriller|Science Fiction                     |          13 |
+| Drama|Thriller|Romance                              |          13 |
+| Drama|Romance|Comedy                                |          13 |
+| Drama|Fantasy                                       |          13 |
+| Drama|Action|Thriller                               |          13 |
+| Comedy|Western                                      |          13 |
+| Adventure|Action|Thriller|Science Fiction           |          13 |
+| Action|Adventure|Fantasy                            |          13 |
+| Action|Adventure|Drama                              |          13 |
+| Horror|Action|Thriller                              |          12 |
+| Family|Comedy                                       |          12 |
+| Drama|Science Fiction|Thriller                      |          12 |
+| Drama|Romance|War                                   |          12 |
+| Drama|Crime|Thriller                                |          12 |
+| Drama|Action                                        |          12 |
+| Comedy|Fantasy                                      |          12 |
+| Comedy|Family|Science Fiction                       |          12 |
+| Comedy|Drama|Family|Romance                         |          12 |
+| Comedy|Adventure                                    |          12 |
+| Adventure|Animation|Comedy|Family                   |          12 |
+| Adventure|Action|Science Fiction                    |          12 |
+| Adventure|Action                                    |          12 |
+| Action|Western                                      |          12 |
+| Action|Comedy|Science Fiction                       |          12 |
+| Action|Adventure|Crime|Drama|Thriller               |          12 |
+| Action|Adventure|Comedy|Family                      |          12 |
+| War|Drama                                           |          11 |
+| Science Fiction|Action|Adventure                    |          11 |
+| Mystery|Horror|Thriller                             |          11 |
+| Horror|Action|Thriller|Science Fiction              |          11 |
+| Fantasy|Comedy|Family                               |          11 |
+| Fantasy                                             |          11 |
+| Drama|TV Movie                                      |          11 |
+| Documentary|Drama                                   |          11 |
+| Comedy|Horror|Science Fiction                       |          11 |
+| Animation|Family|Comedy                             |          11 |
+| Adventure|Fantasy|Family                            |          11 |
+| Action|Comedy|Romance                               |          11 |
+| Action|Adventure|Science Fiction|Thriller           |          11 |
+| TV Movie|Drama                                      |          10 |
+| Science Fiction|Action|Adventure|Thriller           |          10 |
+| Fantasy|Horror                                      |          10 |
+| Drama|Thriller|Crime|Mystery                        |          10 |
+| Drama|Comedy|Romance|Foreign                        |          10 |
+| Crime|Drama|Horror|Thriller                         |          10 |
+| Comedy|Drama|Thriller                               |          10 |
+| Comedy|Drama|Music                                  |          10 |
+| Comedy|Crime|Thriller                               |          10 |
+| Adventure|Comedy|Family                             |          10 |
+| Adventure|Comedy                                    |          10 |
+| Action|Horror|Science Fiction                       |          10 |
+| Action|Crime|Drama|Mystery|Thriller                 |          10 |
+| Thriller|Action|Crime                               |           9 |
+| Thriller|Action                                     |           9 |
+| Science Fiction|Horror                              |           9 |
+| Romance                                             |           9 |
+| Fantasy|Comedy|Science Fiction|Romance              |           9 |
+| Fantasy|Comedy|Romance                              |           9 |
+| Fantasy|Comedy                                      |           9 |
+| Drama|Family|Romance                                |           9 |
+| Documentary|History                                 |           9 |
+| Crime|Comedy                                        |           9 |
+| Comedy|Fantasy|Romance                              |           9 |
+| Comedy|Family|Romance                               |           9 |
+| Animation|Adventure|Family                          |           9 |
+| Adventure|Family                                    |           9 |
+| Action|Thriller|Crime|Drama                         |           9 |
+| Action|Fantasy                                      |           9 |
+| Action|Drama|Mystery|Thriller                       |           9 |
+| Action|Comedy|Drama                                 |           9 |
+| Action|Comedy|Crime|Thriller                        |           9 |
+| Action|Adventure|Comedy|Thriller                    |           9 |
+| Thriller|Horror|Science Fiction                     |           8 |
+| Thriller|Drama|Crime                                |           8 |
+| Mystery|Horror                                      |           8 |
+| Horror|Drama|Thriller                               |           8 |
+| Drama|Action|Crime                                  |           8 |
+| Comedy|Music|Romance                                |           8 |
+| Comedy|Drama|History                                |           8 |
+| Comedy|Crime|Mystery                                |           8 |
+| Adventure|Animation|Comedy|Family|Fantasy           |           8 |
+| Action|Science Fiction|Adventure                    |           8 |
+| Action|Drama|History|War                            |           8 |
+| Action|Comedy|Foreign                               |           8 |
+| Action|Comedy|Family                                |           8 |
+| Action|Adventure|Fantasy|Science Fiction            |           8 |
+| Thriller|Drama|Mystery                              |           7 |
+| Thriller|Action|Drama                               |           7 |
+| Science Fiction|Drama                               |           7 |
+| Music|Drama|Romance                                 |           7 |
+| Horror|Thriller|Drama                               |           7 |
+| Fantasy|Action|Adventure                            |           7 |
+| Family|Animation|Adventure                          |           7 |
+| Family|Adventure                                    |           7 |
+| Drama|Romance|Foreign                               |           7 |
+| Drama|Horror|Science Fiction|Thriller               |           7 |
+| Drama|Foreign|Romance                               |           7 |
+| Documentary|Horror                                  |           7 |
+| Documentary|Foreign                                 |           7 |
+| Comedy|Horror|Thriller                              |           7 |
+| Comedy|Drama|Science Fiction                        |           7 |
+| Animation|Family|Fantasy                            |           7 |
+| Animation|Comedy|Family|Fantasy                     |           7 |
+| Animation|Comedy|Family|Adventure                   |           7 |
+| Animation|Action|Science Fiction                    |           7 |
+| Adventure|Science Fiction                           |           7 |
+| Adventure|Documentary                               |           7 |
+| Action|Horror|Science Fiction|Thriller              |           7 |
+| Action|Drama|Western                                |           7 |
+| Action|Comedy|Horror                                |           7 |
+| Action|Adventure|Drama|Western                      |           7 |
+| War|Action                                          |           6 |
+| Thriller|Science Fiction|Mystery                    |           6 |
+| Thriller|Drama|Horror                               |           6 |
+| Thriller|Crime|Mystery                              |           6 |
+| Thriller|Crime|Drama|Mystery                        |           6 |
+| Science Fiction|Drama|Thriller                      |           6 |
+| Science Fiction|Action|Thriller                     |           6 |
+| Science Fiction|Action                              |           6 |
+| Mystery|Thriller|Drama                              |           6 |
+| Music|Comedy                                        |           6 |
+| Horror|Mystery|Science Fiction                      |           6 |
+| Horror|Comedy|Thriller                              |           6 |
+| Horror|Action|Science Fiction                       |           6 |
+| Horror|Action                                       |           6 |
+| Fantasy|Horror|Thriller                             |           6 |
+| Fantasy|Horror|Comedy                               |           6 |
+| Fantasy|Drama                                       |           6 |
+| Family|Fantasy                                      |           6 |
+| Drama|Western                                       |           6 |
+| Drama|Thriller|Crime|Romance                        |           6 |
+| Drama|Documentary                                   |           6 |
+| Drama|Comedy|Romance|Family                         |           6 |
+| Documentary|Family                                  |           6 |
+| Crime|Mystery|Thriller                              |           6 |
+| Crime|Horror|Thriller                               |           6 |
+| Crime|Drama|Romance|Thriller                        |           6 |
+| Crime|Drama|Comedy                                  |           6 |
+| Crime|Action|Thriller                               |           6 |
+| Comedy|Thriller                                     |           6 |
+| Comedy|Mystery                                      |           6 |
+| Comedy|Foreign                                      |           6 |
+| Comedy|Drama|Music|Romance                          |           6 |
+| Comedy|Drama|Foreign                                |           6 |
+| Comedy|Drama|Fantasy|Romance                        |           6 |
+| Comedy|Drama|Family|TV Movie                        |           6 |
+| Comedy|Crime|Drama|Thriller                         |           6 |
+| Animation|Science Fiction                           |           6 |
+| Animation|Family|Adventure                          |           6 |
+| Animation|Drama                                     |           6 |
+| Animation|Adventure|Comedy|Family|Fantasy           |           6 |
+| Animation|Action|Adventure                          |           6 |
+| Adventure|Fantasy|Science Fiction                   |           6 |
+| Adventure|Fantasy                                   |           6 |
+| Adventure|Drama|Action                              |           6 |
+| Action|Thriller|Adventure                           |           6 |
+| Action|Horror|Thriller                              |           6 |
+| Action|Horror                                       |           6 |
+| Action|History|War                                  |           6 |
+| Action|Fantasy|Science Fiction                      |           6 |
+| Action|Drama|History                                |           6 |
+| Action|Adventure|Crime                              |           6 |
+| Action|Adventure|Comedy|Romance                     |           6 |
+| Western|Drama                                       |           5 |
+| War                                                 |           5 |
+| Science Fiction|Action|Horror                       |           5 |
+| Romance|Drama|Comedy                                |           5 |
+| Mystery|Drama|Thriller                              |           5 |
+| Mystery|Drama                                       |           5 |
+| Horror|Thriller|Crime                               |           5 |
+| Fantasy|Science Fiction                             |           5 |
+| Fantasy|Horror|Science Fiction                      |           5 |
+| Fantasy|Family                                      |           5 |
+| Fantasy|Drama|Romance                               |           5 |
+| Fantasy|Drama|Family                                |           5 |
+| Fantasy|Animation|Science Fiction|Family            |           5 |
+| Fantasy|Animation|Family                            |           5 |
+| Family|Animation|Adventure|Comedy                   |           5 |
+| Drama|Thriller|Horror                               |           5 |
+| Drama|Romance|Science Fiction                       |           5 |
+| Drama|Mystery|Thriller|Crime                        |           5 |
+| Drama|Mystery|Science Fiction|Thriller              |           5 |
+| Drama|History|Thriller                              |           5 |
+| Drama|Fantasy|Science Fiction                       |           5 |
+| Drama|Fantasy|Horror                                |           5 |
+| Drama|Family|Fantasy                                |           5 |
+| Drama|Comedy|Foreign                                |           5 |
+| Drama|Comedy|Crime                                  |           5 |
+| Drama|Action|Crime|Thriller                         |           5 |
+| Comedy|Fantasy|Science Fiction                      |           5 |
+| Comedy|Fantasy|Horror                               |           5 |
+| Comedy|Family|Drama                                 |           5 |
+| Comedy|Drama|Horror                                 |           5 |
+| Comedy|Drama|Family|Music|TV Movie                  |           5 |
+| Comedy|Animation|Family                             |           5 |
+| Comedy|Action                                       |           5 |
+| Animation|Fantasy                                   |           5 |
+| Animation|Comedy|Science Fiction                    |           5 |
+| Animation|Adventure|Family|Fantasy                  |           5 |
+| Animation|Adventure|Comedy|Family                   |           5 |
+| Adventure|Science Fiction|Action                    |           5 |
+| Adventure|Fantasy|Action|Science Fiction            |           5 |
+| Adventure|Comedy|Science Fiction                    |           5 |
+| Adventure|Comedy|Romance                            |           5 |
+| Adventure|Comedy|Drama                              |           5 |
+| Adventure|Action|Comedy                             |           5 |
+| Action|Thriller|War                                 |           5 |
+| Action|Mystery|Thriller                             |           5 |
+| Action|Drama|War                                    |           5 |
+| Action|Comedy|Drama|Thriller                        |           5 |
+| Action|Animation|Science Fiction                    |           5 |
+| Action|Adventure|Fantasy|TV Movie                   |           5 |
+| Action|Adventure|Drama|History                      |           5 |
+| Action|Adventure|Crime|Drama|Mystery                |           5 |
+| Action|Adventure|Comedy|Science Fiction             |           5 |
+| Action|Adventure|Comedy|Drama                       |           5 |
+| Action|Adventure|Comedy|Crime                       |           5 |
+| War|Drama|History                                   |           4 |
+| Thriller|Mystery|Science Fiction                    |           4 |
+| Thriller|Action|Science Fiction                     |           4 |
+| Thriller|Action|Comedy|Crime                        |           4 |
+| Science Fiction|TV Movie                            |           4 |
+| Science Fiction|Animation                           |           4 |
+| Science Fiction|Action|Drama|Thriller               |           4 |
+| Romance|Drama|Music                                 |           4 |
+| Romance|Comedy|Family                               |           4 |
+| Romance|Comedy|Crime|Drama                          |           4 |
+| Mystery|Thriller|Crime                              |           4 |
+| Mystery|Science Fiction|Thriller                    |           4 |
+| Horror|Thriller|Comedy                              |           4 |
+| Horror|Fantasy                                      |           4 |
+| Horror|Drama|Mystery|Thriller                       |           4 |
+| Horror|Comedy|Science Fiction                       |           4 |
+| Horror|Comedy|Fantasy                               |           4 |
+| Fantasy|Drama|Mystery                               |           4 |
+| Fantasy|Drama|Comedy|Family                         |           4 |
+| Fantasy|Comedy|Science Fiction                      |           4 |
+| Fantasy|Adventure|Family                            |           4 |
+| Family|Animation|Comedy                             |           4 |
+| Drama|Thriller|Mystery|Romance                      |           4 |
+| Drama|Thriller|Action                               |           4 |
+| Drama|Mystery|Romance                               |           4 |
+| Drama|Foreign|History                               |           4 |
+| Drama|Fantasy|Romance                               |           4 |
+| Drama|Comedy|Music                                  |           4 |
+| Drama|Comedy|Family                                 |           4 |
+| Drama|Action|Romance                                |           4 |
+| Drama|Action|Comedy|Crime                           |           4 |
+| Crime|Thriller|Mystery                              |           4 |
+| Crime|Thriller|Drama                                |           4 |
+| Crime|Horror|Mystery|Thriller                       |           4 |
+| Crime|Drama|Romance                                 |           4 |
+| Crime|Drama|Action|Thriller                         |           4 |
+| Crime|Documentary                                   |           4 |
+| Crime|Comedy|Action                                 |           4 |
+| Crime|Action                                        |           4 |
+| Comedy|Romance|Science Fiction                      |           4 |
+| Comedy|Romance|Family                               |           4 |
+| Comedy|Drama|War                                    |           4 |
+| Comedy|Crime|Mystery|Thriller                       |           4 |
+| Comedy|Action|Adventure                             |           4 |
+| Animation|Comedy|Family|Mystery                     |           4 |
+| Animation|Adventure                                 |           4 |
+| Animation|Action                                    |           4 |
+| Adventure|Horror|Thriller                           |           4 |
+| Adventure|Fantasy|Science Fiction|Family            |           4 |
+| Adventure|Fantasy|Drama|Romance                     |           4 |
+| Adventure|Fantasy|Drama                             |           4 |
+| Adventure|Fantasy|Comedy|Family                     |           4 |
+| Adventure|Fantasy|Action|Thriller                   |           4 |
+| Adventure|Drama|Fantasy                             |           4 |
+| Adventure|Drama|Action|Comedy|Thriller              |           4 |
+| Adventure|Comedy|Family|Science Fiction             |           4 |
+| Adventure|Comedy|Family|Fantasy                     |           4 |
+| Adventure|Comedy|Drama|Family                       |           4 |
+| Adventure|Animation|Family|Fantasy                  |           4 |
+| Adventure|Action|Thriller|Crime                     |           4 |
+| Adventure|Action|Science Fiction|Thriller           |           4 |
+| Adventure|Action|Comedy|Thriller|Crime              |           4 |
+| Adventure|Action|Comedy|Thriller                    |           4 |
+| Action|Thriller|Crime|Mystery                       |           4 |
+| Action|Fantasy|Thriller                             |           4 |
+| Action|Fantasy|Adventure                            |           4 |
+| Action|Drama|Thriller|Crime                         |           4 |
+| Action|Drama|Romance                                |           4 |
+| Action|Drama|Horror|Thriller                        |           4 |
+| Action|Comedy|Thriller|Romance                      |           4 |
+| Action|Comedy|Thriller|Crime                        |           4 |
+| Action|Comedy|Romance|Thriller                      |           4 |
+| Action|Animation                                    |           4 |
+| Action|Adventure|Western                            |           4 |
+| Action|Adventure|Horror|Thriller                    |           4 |
+| Action|Adventure|Horror|Science Fiction             |           4 |
+| Action|Adventure|Drama|Romance                      |           4 |
+| Action|Adventure|Drama|Horror|Science Fiction       |           4 |
+| Action|Adventure|Drama|History|War                  |           4 |
+| Action|Adventure|Crime|Drama                        |           4 |
+| Action|Adventure|Comedy|Family|Fantasy              |           4 |
+| Action|Adventure|Comedy|Crime|Thriller              |           4 |
+| Action|Adventure|Comedy|Crime|Drama                 |           4 |
+| Action|Adventure|Animation|Science Fiction          |           4 |
+| Action|Adventure|Animation|Family|Science Fiction   |           4 |
+| Action|Adventure|Animation                          |           4 |
+| War|Drama|Romance                                   |           3 |
+| War|Documentary|History                             |           3 |
+| War|Action|Drama                                    |           3 |
+| Thriller|Science Fiction|Action                     |           3 |
+| Thriller|Romance                                    |           3 |
+| Thriller|Drama|Romance                              |           3 |
+| Thriller|Drama|Crime|Mystery                        |           3 |
+| Thriller|Crime|Action                               |           3 |
+| Thriller|Comedy|Horror|Science Fiction              |           3 |
+| Thriller|Comedy|Horror                              |           3 |
+| Thriller|Comedy|Crime                               |           3 |
+| Thriller|Action|Horror                              |           3 |
+| Thriller|Action|Crime|Drama                         |           3 |
+| TV Movie|Family|Drama                               |           3 |
+| TV Movie                                            |           3 |
+| Science Fiction|Thriller|Drama                      |           3 |
+| Science Fiction|Horror|Thriller                     |           3 |
+| Science Fiction|Comedy|Horror                       |           3 |
+| Science Fiction|Adventure|Action                    |           3 |
+| Science Fiction|Adventure                           |           3 |
+| Romance|Drama|Mystery                               |           3 |
+| Mystery|Drama|Thriller|Crime                        |           3 |
+| Mystery                                             |           3 |
+| Music|Comedy|Drama                                  |           3 |
+| Horror|Thriller|Foreign                             |           3 |
+| Horror|Thriller|Action                              |           3 |
+| Horror|Science Fiction|Mystery|Thriller             |           3 |
+| Horror|Romance                                      |           3 |
+| Horror|Drama|Mystery                                |           3 |
+| Horror|Comedy|Romance                               |           3 |
+| History|Drama|War                                   |           3 |
+| History|Crime|Drama                                 |           3 |
+| Foreign|Horror|Thriller                             |           3 |
+| Fantasy|Drama|Comedy|Science Fiction|Romance        |           3 |
+| Fantasy|Drama|Comedy|Science Fiction                |           3 |
+| Fantasy|Drama|Comedy                                |           3 |
+| Fantasy|Comedy|Science Fiction|Family               |           3 |
+| Fantasy|Animation|Comedy|Science Fiction|Family     |           3 |
+| Fantasy|Adventure|Animation|Comedy|Family           |           3 |
+| Fantasy|Adventure                                   |           3 |
+| Fantasy|Action|Comedy|Science Fiction|Family        |           3 |
+| Fantasy|Action                                      |           3 |
+| Family|TV Movie                                     |           3 |
+| Family|Documentary                                  |           3 |
+| Drama|Thriller|War                                  |           3 |
+| Drama|Thriller|Science Fiction                      |           3 |
+| Drama|Thriller|History                              |           3 |
+| Drama|Horror|Romance                                |           3 |
+| Drama|History|Music                                 |           3 |
+| Drama|Fantasy|Thriller                              |           3 |
+| Drama|Fantasy|Science Fiction|Thriller              |           3 |
+| Drama|Fantasy|Horror|Thriller                       |           3 |
+| Drama|Fantasy|Comedy                                |           3 |
+| Drama|Family|Music|Romance                          |           3 |
+| Drama|Comedy|Music|Romance                          |           3 |
+| Drama|Adventure|Romance                             |           3 |
+| Drama|Adventure                                     |           3 |
+| Drama|Action|Thriller|War                           |           3 |
+| Drama|Action|Thriller|Science Fiction               |           3 |
+| Drama|Action|Thriller|Romance                       |           3 |
+| Drama|Action|Thriller|Crime|Mystery                 |           3 |
+| Drama|Action|Comedy|Thriller|Crime                  |           3 |
+| Drama|Action|Comedy                                 |           3 |
+| Documentary|War                                     |           3 |
+| Documentary|Comedy                                  |           3 |
+| Crime|Thriller|Action                               |           3 |
+| Crime|Drama|Thriller|Mystery                        |           3 |
+| Crime|Drama|Science Fiction|Thriller                |           3 |
+| Crime|Drama|Horror|Mystery|Thriller                 |           3 |
+| Crime|Drama|History                                 |           3 |
+| Crime|Action|Drama                                  |           3 |
+| Crime                                               |           3 |
+| Comedy|War                                          |           3 |
+| Comedy|Thriller|Crime                               |           3 |
+| Comedy|Romance|TV Movie                             |           3 |
+| Comedy|Horror|Fantasy                               |           3 |
+| Comedy|History                                      |           3 |
+| Comedy|Fantasy|Family                               |           3 |
+| Comedy|Family|Fantasy|Science Fiction               |           3 |
+| Comedy|Family|Adventure                             |           3 |
+| Comedy|Drama|Mystery                                |           3 |
+| Comedy|Drama|Family|Music|Romance                   |           3 |
+| Comedy|Drama|Family|Music                           |           3 |
+| Comedy|Drama|Crime                                  |           3 |
+| Comedy|Crime|Romance                                |           3 |
+| Comedy|Animation                                    |           3 |
+| Animation|Fantasy|Family                            |           3 |
+| Animation|Family|Adventure|Fantasy                  |           3 |
+| Animation|Family|Adventure|Comedy                   |           3 |
+| Animation|Drama|Family                              |           3 |
+| Animation|Action|Comedy|Family                      |           3 |
+| Adventure|Horror                                    |           3 |
+| Adventure|Fantasy|Comedy|Science Fiction|Family     |           3 |
+| Adventure|Fantasy|Animation|Action|Comedy           |           3 |
+| Adventure|Fantasy|Action|Comedy|Family              |           3 |
+| Adventure|Drama|Thriller                            |           3 |
+| Adventure|Drama|History                             |           3 |
+| Adventure|Drama|Comedy                              |           3 |
+| Adventure|Drama|Action|Thriller                     |           3 |
+| Adventure|Drama|Action|History                      |           3 |
+| Adventure|Comedy|Fantasy                            |           3 |
+| Adventure|Comedy|Crime                              |           3 |
+| Adventure|Animation|Drama|Family                    |           3 |
+| Action|War                                          |           3 |
+| Action|Thriller|Science Fiction|Adventure           |           3 |
+| Action|Thriller|Romance                             |           3 |
+| Action|Thriller|Mystery                             |           3 |
+| Action|Thriller|Drama                               |           3 |
+| Action|Science Fiction|Adventure|Thriller           |           3 |
+| Action|Mystery|Science Fiction|Thriller             |           3 |
+| Action|Horror|Western                               |           3 |
+| Action|Fantasy|Horror                               |           3 |
+| Action|Drama|Thriller|War                           |           3 |
+| Action|Drama|Science Fiction|Adventure              |           3 |
+| Action|Drama|Mystery|Thriller|Crime                 |           3 |
+| Action|Drama|Horror|Science Fiction|Thriller        |           3 |
+| Action|Drama|Horror|Science Fiction                 |           3 |
+| Action|Drama|Foreign                                |           3 |
+| Action|Drama|Crime                                  |           3 |
+| Action|Crime|Thriller|Drama                         |           3 |
+| Action|Crime|Mystery|Thriller                       |           3 |
+| Action|Comedy|Western                               |           3 |
+| Action|Comedy|Thriller|Crime|Romance                |           3 |
+| Action|Comedy|Horror|Science Fiction                |           3 |
+| Action|Comedy|Drama|Western                         |           3 |
+| Action|Comedy|Drama|Romance                         |           3 |
+| Action|Comedy|Crime|Romance                         |           3 |
+| Action|Comedy|Crime|Drama|Thriller                  |           3 |
+| Action|Comedy|Crime|Drama                           |           3 |
+| Action|Animation|Family                             |           3 |
+| Action|Adventure|War                                |           3 |
+| Action|Adventure|Thriller|War                       |           3 |
+| Action|Adventure|Fantasy|Horror                     |           3 |
+| Action|Adventure|Family|Fantasy|Science Fiction     |           3 |
+| Action|Adventure|Drama|War                          |           3 |
+| Action|Adventure|Comedy|Western                     |           3 |
+| Action|Adventure|Comedy|Drama|Western               |           3 |
+| Action|Adventure|Animation|Family|Fantasy           |           3 |
+| Action|Adventure|Animation|Family                   |           3 |
+| Western|Adventure                                   |           2 |
+| Western|Action                                      |           2 |
+| War|Adventure|Drama|Romance                         |           2 |
+| Thriller|Science Fiction|Action|Adventure           |           2 |
+| Thriller|Mystery|Romance                            |           2 |
+| Thriller|Mystery|Foreign                            |           2 |
+| Thriller|Mystery|Drama                              |           2 |
+| Thriller|Mystery|Crime|Drama                        |           2 |
+| Thriller|Horror|Drama                               |           2 |
+| Thriller|Drama|Science Fiction                      |           2 |
+| Thriller|Drama|Horror|Mystery                       |           2 |
+| Thriller|Drama|History                              |           2 |
+| Thriller|Drama|Crime|Romance                        |           2 |
+| Thriller|Drama|Action|Crime                         |           2 |
+| Thriller|Crime|Mystery|Drama                        |           2 |
+| Thriller|Crime|Horror                               |           2 |
+| Thriller|Comedy                                     |           2 |
+| Thriller|Adventure|Drama                            |           2 |
+| Thriller|Action|Crime|Drama|Mystery                 |           2 |
+| Thriller|Action|Comedy|Crime|Drama                  |           2 |
+| Thriller|Action|Adventure|Drama                     |           2 |
+| TV Movie|Romance|Drama                              |           2 |
+| TV Movie|Horror                                     |           2 |
+| TV Movie|Drama|History|War                          |           2 |
+| TV Movie|Documentary                                |           2 |
+| TV Movie|Crime|Mystery|Thriller                     |           2 |
+| TV Movie|Comedy|Drama                               |           2 |
+| Science Fiction|Thriller|Horror                     |           2 |
+| Science Fiction|Romance                             |           2 |
+| Science Fiction|Horror|Action                       |           2 |
+| Science Fiction|Drama|Mystery                       |           2 |
+| Science Fiction|Comedy                              |           2 |
+| Science Fiction|Adventure|Mystery                   |           2 |
+| Science Fiction|Action|Fantasy                      |           2 |
+| Science Fiction|Action|Animation                    |           2 |
+| Romance|TV Movie                                    |           2 |
+| Romance|Drama|Thriller|Crime                        |           2 |
+| Romance|Drama|Fantasy                               |           2 |
+| Romance|Comedy|Horror                               |           2 |
+| Romance|Comedy|Family|Fantasy                       |           2 |
+| Romance|Adventure|Drama                             |           2 |
+| Mystery|Thriller|Horror                             |           2 |
+| Mystery|Thriller|Action                             |           2 |
+| Mystery|Drama|Action|Crime                          |           2 |
+| Mystery|Crime|Drama                                 |           2 |
+| Mystery|Comedy                                      |           2 |
+| Mystery|Adventure|Family                            |           2 |
+| Music|Romance                                       |           2 |
+| Music|Drama|Comedy                                  |           2 |
+| Music|Animation|Family|Fantasy                      |           2 |
+| Horror|Thriller|Science Fiction|Mystery             |           2 |
+| Horror|Thriller|Romance                             |           2 |
+| Horror|Thriller|Fantasy                             |           2 |
+| Horror|Thriller|Crime|Mystery                       |           2 |
+| Horror|Romance|Science Fiction                      |           2 |
+| Horror|Music                                        |           2 |
+| Horror|Crime                                        |           2 |
+| Horror|Comedy|Music                                 |           2 |
+| Horror|Action|Crime|Thriller                        |           2 |
+| Horror|Action|Comedy|Science Fiction                |           2 |
+| Horror|Action|Comedy                                |           2 |
+| Fantasy|Horror|Mystery                              |           2 |
+| Fantasy|Horror|Action                               |           2 |
+| Fantasy|Drama|Thriller|Science Fiction              |           2 |
+| Fantasy|Drama|Thriller|Mystery|Romance              |           2 |
+| Fantasy|Drama|Thriller                              |           2 |
+| Fantasy|Drama|Science Fiction                       |           2 |
+| Fantasy|Drama|Horror|Thriller                       |           2 |
+| Fantasy|Drama|Horror|Action|Thriller                |           2 |
+| Fantasy|Drama|Comedy|Romance                        |           2 |
+| Fantasy|Comedy|Romance|Science Fiction              |           2 |
+| Fantasy|Comedy|Music                                |           2 |
+| Fantasy|Comedy|Family|Romance                       |           2 |
+| Fantasy|Comedy|Family|Adventure                     |           2 |
+| Fantasy|Comedy|Drama                                |           2 |
+| Fantasy|Animation|Comedy|Family                     |           2 |
+| Fantasy|Action|Thriller|Science Fiction             |           2 |
+| Fantasy|Action|Thriller                             |           2 |
+| Fantasy|Action|Science Fiction                      |           2 |
+| Fantasy|Action|Horror                               |           2 |
+| Family|Science Fiction                              |           2 |
+| Family|Music|TV Movie                               |           2 |
+| Family|Drama                                        |           2 |
+| Family|Comedy|Fantasy                               |           2 |
+| Family|Comedy|Drama                                 |           2 |
+| Family|Comedy|Adventure                             |           2 |
+| Family|Comedy|Action                                |           2 |
+| Family|Animation|Music                              |           2 |
+| Family|Animation|Fantasy                            |           2 |
+| Family|Animation|Comedy|Adventure                   |           2 |
+| Family|Adventure|Animation                          |           2 |
+| Drama|Western|Crime                                 |           2 |
+| Drama|Western|Adventure                             |           2 |
+| Drama|War|Thriller                                  |           2 |
+| Drama|War|History                                   |           2 |
+| Drama|War|Action                                    |           2 |
+| Drama|Thriller|Science Fiction|Mystery              |           2 |
+| Drama|Thriller|Foreign                              |           2 |
+| Drama|Thriller|Crime|Mystery|Comedy                 |           2 |
+| Drama|Science Fiction|Mystery                       |           2 |
+| Drama|Science Fiction|Comedy                        |           2 |
+| Drama|Romance|Western                               |           2 |
+| Drama|Romance|Science Fiction|Thriller              |           2 |
+| Drama|Romance|Family                                |           2 |
+| Drama|Romance|Crime                                 |           2 |
+| Drama|Mystery|Romance|Thriller                      |           2 |
+| Drama|Mystery|Horror                                |           2 |
+| Drama|Mystery|Crime                                 |           2 |
+| Drama|Music|Comedy                                  |           2 |
+| Drama|Horror|Thriller|Romance                       |           2 |
+| Drama|Horror|Thriller|Mystery                       |           2 |
+| Drama|Horror|Thriller|Foreign                       |           2 |
+| Drama|Horror|Thriller|Crime                         |           2 |
+| Drama|Horror|Science Fiction                        |           2 |
+| Drama|Horror|Mystery                                |           2 |
+| Drama|Horror|Crime                                  |           2 |
+| Drama|Horror|Action|Thriller|Science Fiction        |           2 |
+| Drama|History|Western                               |           2 |
+| Drama|History|TV Movie                              |           2 |
+| Drama|History|Mystery|Thriller                      |           2 |
+| Drama|History|Foreign                               |           2 |
+| Drama|Foreign|Horror                                |           2 |
+| Drama|Family|Fantasy|Adventure                      |           2 |
+| Drama|Documentary|Foreign                           |           2 |
+| Drama|Crime|Romance                                 |           2 |
+| Drama|Crime|Mystery|Thriller                        |           2 |
+| Drama|Crime|Mystery                                 |           2 |
+| Drama|Crime|History                                 |           2 |
+| Drama|Comedy|Thriller|Mystery                       |           2 |
+| Drama|Comedy|Family|Foreign                         |           2 |
+| Drama|Animation                                     |           2 |
+| Drama|Adventure|Western                             |           2 |
+| Drama|Adventure|History                             |           2 |
+| Drama|Action|History|War                            |           2 |
+| Drama|Action|History                                |           2 |
+| Drama|Action|Comedy|Romance                         |           2 |
+| Drama|Action|Adventure|History|War                  |           2 |
+| Documentary|Science Fiction                         |           2 |
+| Documentary|Music|Family                            |           2 |
+| Documentary|History|Music                           |           2 |
+| Documentary|Drama|Music                             |           2 |
+| Documentary|Comedy|Drama                            |           2 |
+| Documentary|Animation                               |           2 |
+| Documentary|Adventure                               |           2 |
+| Crime|Thriller|Horror|Drama                         |           2 |
+| Crime|Thriller|Horror                               |           2 |
+| Crime|Thriller|Comedy                               |           2 |
+| Crime|Horror|Mystery                                |           2 |
+| Crime|Drama|Horror                                  |           2 |
+| Crime|Drama|Action|Thriller|Science Fiction         |           2 |
+| Crime|Comedy|Thriller                               |           2 |
+| Crime|Comedy|Romance                                |           2 |
+| Crime|Comedy|Drama                                  |           2 |
+| Comedy|Thriller|Mystery                             |           2 |
+| Comedy|Thriller|Crime|Mystery                       |           2 |
+| Comedy|Romance|Fantasy                              |           2 |
+| Comedy|Mystery|Thriller                             |           2 |
+| Comedy|Foreign|Romance                              |           2 |
+| Comedy|Fantasy|Romance|Science Fiction              |           2 |
+| Comedy|Family|Music|Romance                         |           2 |
+| Comedy|Family|Animation|Fantasy|Music               |           2 |
+| Comedy|Drama|Romance|Thriller                       |           2 |
+| Comedy|Drama|Foreign|Romance                        |           2 |
+| Comedy|Drama|Fantasy                                |           2 |
+| Comedy|Drama|Family|Fantasy                         |           2 |
+| Comedy|Documentary|Music                            |           2 |
+| Comedy|Documentary|Action                           |           2 |
+| Comedy|Crime|Drama|Romance|Thriller                 |           2 |
+| Comedy|Adventure|Romance                            |           2 |
+| Comedy|Action|Crime|Adventure                       |           2 |
+| Comedy|Action|Crime                                 |           2 |
+| Animation|Science Fiction|Action                    |           2 |
+| Animation|Music|Family                              |           2 |
+| Animation|Fantasy|Science Fiction                   |           2 |
+| Animation|Family|Romance                            |           2 |
+| Animation|Family|Adventure|Science Fiction          |           2 |
+| Animation|Comedy|Music                              |           2 |
+| Animation|Comedy|Family|Science Fiction             |           2 |
+| Animation|Comedy|Family|Fantasy|Music               |           2 |
+| Animation|Comedy|Family|Adventure|Fantasy           |           2 |
+| Animation|Comedy|Drama                              |           2 |
+| Animation|Comedy|Adventure|Family                   |           2 |
+| Animation|Comedy|Adventure                          |           2 |
+| Animation|Adventure|Comedy                          |           2 |
+| Animation|Action|Thriller|Science Fiction           |           2 |
+| Animation|Action|Family                             |           2 |
+| Animation|Action|Adventure|Family                   |           2 |
+| Adventure|Thriller|Science Fiction                  |           2 |
+| Adventure|Science Fiction|Mystery                   |           2 |
+| Adventure|Horror|Action|Thriller|Science Fiction    |           2 |
+| Adventure|Horror|Action|Science Fiction             |           2 |
+| Adventure|Fantasy|Drama|Science Fiction|Romance     |           2 |
+| Adventure|Fantasy|Drama|Science Fiction|Family      |           2 |
+| Adventure|Fantasy|Drama|Action                      |           2 |
+| Adventure|Fantasy|Animation|Family                  |           2 |
+| Adventure|Fantasy|Animation|Action|Science Fiction  |           2 |
+| Adventure|Fantasy|Action|Thriller|Science Fiction   |           2 |
+| Adventure|Fantasy|Action|Comedy|Science Fiction     |           2 |
+| Adventure|Fantasy|Action|Comedy                     |           2 |
+| Adventure|Drama|Science Fiction                     |           2 |
+| Adventure|Drama|Romance                             |           2 |
+| Adventure|Drama|Horror                              |           2 |
+| Adventure|Drama|History|Romance                     |           2 |
+| Adventure|Drama|Family|Science Fiction              |           2 |
+| Adventure|Drama|Action|Romance                      |           2 |
+| Adventure|Drama|Action|History|War                  |           2 |
+| Adventure|Comedy|Horror                             |           2 |
+| Adventure|Comedy|Family|Science Fiction|TV Movie    |           2 |
+| Adventure|Comedy|Family|Science Fiction|Action      |           2 |
+| Adventure|Comedy|Family|Fantasy|TV Movie            |           2 |
+| Adventure|Comedy|Drama|Romance                      |           2 |
+| Adventure|Comedy|Drama|Family|Fantasy               |           2 |
+| Adventure|Animation|Family|Fantasy|Science Fiction  |           2 |
+| Adventure|Animation|Drama                           |           2 |
+| Adventure|Animation|Comedy|Science Fiction|Family   |           2 |
+| Adventure|Animation|Action|Comedy|Family            |           2 |
+| Adventure|Animation|Action                          |           2 |
+| Adventure|Animation                                 |           2 |
+| Adventure|Action|Fantasy                            |           2 |
+| Adventure|Action|Family                             |           2 |
+| Adventure|Action|Drama|Thriller                     |           2 |
+| Adventure|Action|Comedy|Science Fiction             |           2 |
+| Adventure|Action|Comedy|Family                      |           2 |
+| Action|Thriller|Crime|Romance                       |           2 |
+| Action|Thriller|Adventure|Crime                     |           2 |
+| Action|Science Fiction|Comedy                       |           2 |
+| Action|Science Fiction|Adventure|Fantasy            |           2 |
+| Action|Horror|Thriller|Science Fiction              |           2 |
+| Action|History                                      |           2 |
+| Action|Foreign                                      |           2 |
+| Action|Fantasy|Science Fiction|Thriller             |           2 |
+| Action|Family|Fantasy                               |           2 |
+| Action|Drama|Thriller|Crime|Mystery                 |           2 |
+| Action|Drama|Science Fiction|Thriller               |           2 |
+| Action|Drama|Romance|Western                        |           2 |
+| Action|Drama|Romance|Thriller                       |           2 |
+| Action|Drama|Family                                 |           2 |
+| Action|Crime|Science Fiction|Thriller               |           2 |
+| Action|Crime|Mystery                                |           2 |
+| Action|Crime|Drama|Foreign|Thriller                 |           2 |
+| Action|Crime|Comedy                                 |           2 |
+| Action|Comedy|War                                   |           2 |
+| Action|Comedy|Thriller|Crime|Family                 |           2 |
+| Action|Comedy|Horror|Science Fiction|Thriller       |           2 |
+| Action|Comedy|Drama|Family                          |           2 |
+| Action|Comedy|Crime|Mystery                         |           2 |
+| Action|Animation|Fantasy|Science Fiction            |           2 |
+| Action|Adventure|Thriller|Crime                     |           2 |
+| Action|Adventure|Science Fiction|Fantasy            |           2 |
+| Action|Adventure|Mystery|Thriller                   |           2 |
+| Action|Adventure|Foreign                            |           2 |
+| Action|Adventure|Fantasy|Science Fiction|Thriller   |           2 |
+| Action|Adventure|Fantasy|Horror|Science Fiction     |           2 |
+| Action|Adventure|Family|Fantasy                     |           2 |
+| Action|Adventure|Drama|Romance|Science Fiction      |           2 |
+| Action|Adventure|Drama|Mystery|Science Fiction      |           2 |
+| Action|Adventure|Drama|History|Western              |           2 |
+| Action|Adventure|Drama|History|Romance              |           2 |
+| Action|Adventure|Crime|Science Fiction|Thriller     |           2 |
+| Action|Adventure|Crime|Mystery|Thriller             |           2 |
+| Action|Adventure|Comedy|Fantasy                     |           2 |
+| Action|Adventure|Comedy|Family|Science Fiction      |           2 |
+| Action|Adventure|Comedy|Drama|Science Fiction       |           2 |
+| Action|Adventure|Comedy|Drama|Family                |           2 |
+| Action|Adventure|Animation|Fantasy|Science Fiction  |           2 |
+| Western|Thriller                                    |           1 |
+| Western|Horror|Thriller                             |           1 |
+| Western|History|War                                 |           1 |
+| Western|History                                     |           1 |
+| Western|Drama|Crime|Romance                         |           1 |
+| Western|Drama|Comedy|Romance                        |           1 |
+| Western|Drama|Adventure|Thriller                    |           1 |
+| Western|Comedy|Drama|Music                          |           1 |
+| Western|Comedy                                      |           1 |
+| Western|Animation|Family|Comedy|Music               |           1 |
+| Western|Animation|Adventure|Comedy|Family           |           1 |
+| Western|Action|Drama|Science Fiction                |           1 |
+| Western|Action|Comedy                               |           1 |
+| Western|Action|Adventure|Drama                      |           1 |
+| Western|Action|Adventure                            |           1 |
+| War|History|Action|Adventure|Drama                  |           1 |
+| War|History                                         |           1 |
+| War|Drama|Mystery|Romance                           |           1 |
+| War|Drama|History|Thriller                          |           1 |
+| War|Drama|History|Action|Romance                    |           1 |
+| War|Drama|History|Action                            |           1 |
+| War|Drama|Foreign|History                           |           1 |
+| War|Drama|Action|Adventure|History                  |           1 |
+| War|Drama|Action                                    |           1 |
+| War|Documentary                                     |           1 |
+| War|Crime|Drama|Mystery|Romance                     |           1 |
+| War|Comedy|Drama                                    |           1 |
+| War|Adventure|Science Fiction                       |           1 |
+| War|Adventure|Drama                                 |           1 |
+| War|Adventure                                       |           1 |
+| War|Action|Thriller|Science Fiction                 |           1 |
+| War|Action|Thriller|Drama                           |           1 |
+| War|Action|Thriller                                 |           1 |
+| War|Action|Science Fiction                          |           1 |
+| War|Action|Drama|Romance                            |           1 |
+| War|Action|Adventure|Drama|History                  |           1 |
+| War|Action|Adventure|Drama                          |           1 |
+| Thriller|Western|Mystery                            |           1 |
+| Thriller|Western|Adventure                          |           1 |
+| Thriller|War|Adventure|Drama                        |           1 |
+| Thriller|War                                        |           1 |
+| Thriller|TV Movie|Science Fiction|Drama             |           1 |
+| Thriller|Science Fiction|Mystery|Romance            |           1 |
+| Thriller|Science Fiction|Horror|Mystery             |           1 |
+| Thriller|Science Fiction|Horror                     |           1 |
+| Thriller|Science Fiction|Foreign                    |           1 |
+| Thriller|Science Fiction|Drama|Mystery              |           1 |
+| Thriller|Science Fiction|Drama                      |           1 |
+| Thriller|Science Fiction|Adventure|Action           |           1 |
+| Thriller|Science Fiction|Action|Crime               |           1 |
+| Thriller|Romance|Fantasy                            |           1 |
+| Thriller|Romance|Drama                              |           1 |
+| Thriller|Mystery|Horror|Fantasy                     |           1 |
+| Thriller|Mystery|Horror|Drama                       |           1 |
+| Thriller|Mystery|Horror                             |           1 |
+| Thriller|Mystery|Drama|Horror                       |           1 |
+| Thriller|Mystery|Crime                              |           1 |
+| Thriller|Mystery|Adventure                          |           1 |
+| Thriller|Music|Comedy|Crime                         |           1 |
+| Thriller|Horror|War                                 |           1 |
+| Thriller|Horror|Romance                             |           1 |
+| Thriller|Horror|Drama|Mystery                       |           1 |
+| Thriller|Horror|Drama|Fantasy                       |           1 |
+| Thriller|Horror|Crime                               |           1 |
+| Thriller|Horror|Comedy|Science Fiction              |           1 |
+| Thriller|Horror|Comedy|Drama                        |           1 |
+| Thriller|Horror|Comedy                              |           1 |
+| Thriller|Foreign                                    |           1 |
+| Thriller|Fantasy|Crime|Drama                        |           1 |
+| Thriller|Fantasy|Comedy|Family|Mystery              |           1 |
+| Thriller|Fantasy|Action|Science Fiction|Western     |           1 |
+| Thriller|Fantasy|Action|Comedy                      |           1 |
+| Thriller|Drama|Romance|Mystery                      |           1 |
+| Thriller|Drama|Romance|Crime                        |           1 |
+| Thriller|Drama|Mystery|Crime                        |           1 |
+| Thriller|Drama|Horror|Science Fiction               |           1 |
+| Thriller|Drama|Horror|Fantasy                       |           1 |
+| Thriller|Drama|Fantasy                              |           1 |
+| Thriller|Drama|Comedy                               |           1 |
+| Thriller|Drama|Adventure|Action|History             |           1 |
+| Thriller|Drama|Action|Mystery                       |           1 |
+| Thriller|Drama|Action|Crime|War                     |           1 |
+| Thriller|Documentary|Crime|History                  |           1 |
+| Thriller|Documentary                                |           1 |
+| Thriller|Crime|Science Fiction|Mystery              |           1 |
+| Thriller|Crime|Science Fiction                      |           1 |
+| Thriller|Crime|Romance                              |           1 |
+| Thriller|Crime|Drama|Horror                         |           1 |
+| Thriller|Crime|Drama|Action|Comedy                  |           1 |
+| Thriller|Crime|Drama|Action                         |           1 |
+| Thriller|Crime|Documentary                          |           1 |
+| Thriller|Crime|Action|Drama                         |           1 |
+| Thriller|Comedy|Horror|Mystery                      |           1 |
+| Thriller|Comedy|Family|Horror                       |           1 |
+| Thriller|Comedy|Drama|Romance|Science Fiction       |           1 |
+| Thriller|Comedy|Crime|Adventure                     |           1 |
+| Thriller|Comedy|Action                              |           1 |
+| Thriller|Animation|Action|Science Fiction|Adventure |           1 |
+| Thriller|Animation|Action|Crime                     |           1 |
+| Thriller|Adventure|History|Drama                    |           1 |
+| Thriller|Adventure|Fantasy|Science Fiction|Romance  |           1 |
+| Thriller|Adventure|Fantasy                          |           1 |
+| Thriller|Adventure|Drama|Crime                      |           1 |
+| Thriller|Adventure|Action|Comedy|Drama              |           1 |
+| Thriller|Action|War                                 |           1 |
+| Thriller|Action|Science Fiction|Horror|Mystery      |           1 |
+| Thriller|Action|Science Fiction|Crime               |           1 |
+| Thriller|Action|Romance|Science Fiction|Adventure   |           1 |
+| Thriller|Action|Mystery                             |           1 |
+| Thriller|Action|Horror|Science Fiction|Crime        |           1 |
+| Thriller|Action|Fantasy|Horror                      |           1 |
+| Thriller|Action|Drama|War                           |           1 |
+| Thriller|Action|Drama|Science Fiction               |           1 |
+| Thriller|Action|Drama|Music|Romance                 |           1 |
+| Thriller|Action|Drama|Crime                         |           1 |
+| Thriller|Action|Comedy|Science Fiction              |           1 |
+| Thriller|Action|Comedy                              |           1 |
+| Thriller|Action|Adventure|Science Fiction           |           1 |
+| Thriller|Action|Adventure|Crime                     |           1 |
+| Thriller|Action|Adventure|Comedy|Crime              |           1 |
+| TV Movie|Thriller|Drama|History|Romance             |           1 |
+| TV Movie|Science Fiction|Action|Adventure|Horror    |           1 |
+| TV Movie|Science Fiction|Action                     |           1 |
+| TV Movie|Science Fiction                            |           1 |
+| TV Movie|Romance|Family                             |           1 |
+| TV Movie|Romance|Drama|Thriller                     |           1 |
+| TV Movie|Romance|Comedy|Drama                       |           1 |
+| TV Movie|Horror|Thriller                            |           1 |
+| TV Movie|Horror|Science Fiction|Thriller            |           1 |
+| TV Movie|Horror|Science Fiction                     |           1 |
+| TV Movie|Horror|Mystery                             |           1 |
+| TV Movie|Fantasy|Family|Adventure                   |           1 |
+| TV Movie|Fantasy|Drama|Comedy|Family                |           1 |
+| TV Movie|Fantasy|Comedy|Romance|Family              |           1 |
+| TV Movie|Fantasy|Animation|Horror|Action            |           1 |
+| TV Movie|Fantasy|Animation|Action|Thriller          |           1 |
+| TV Movie|Family|Comedy|Drama                        |           1 |
+| TV Movie|Family|Comedy|Adventure|Crime              |           1 |
+| TV Movie|Drama|Mystery|Romance                      |           1 |
+| TV Movie|Drama|History                              |           1 |
+| TV Movie|Drama|Fantasy                              |           1 |
+| TV Movie|Drama|Family                               |           1 |
+| TV Movie|Drama|Comedy|Music|Romance                 |           1 |
+| TV Movie|Crime|Drama                                |           1 |
+| TV Movie|Comedy|Science Fiction|Family|Adventure    |           1 |
+| TV Movie|Comedy|Romance|Family                      |           1 |
+| TV Movie|Comedy|Romance                             |           1 |
+| TV Movie|Comedy|Fantasy                             |           1 |
+| TV Movie|Comedy|Family|Romance                      |           1 |
+| TV Movie|Comedy|Family|Fantasy|Romance              |           1 |
+| TV Movie|Comedy|Family|Adventure                    |           1 |
+| TV Movie|Comedy|Family                              |           1 |
+| TV Movie|Comedy|Drama|Romance                       |           1 |
+| TV Movie|Comedy|Documentary                         |           1 |
+| TV Movie|Comedy|Adventure|Family                    |           1 |
+| TV Movie|Comedy                                     |           1 |
+| TV Movie|Animation|Fantasy                          |           1 |
+| TV Movie|Animation|Family|Mystery|Comedy            |           1 |
+| TV Movie|Animation|Family|Fantasy                   |           1 |
+| TV Movie|Animation|Family|Comedy                    |           1 |
+| TV Movie|Animation|Family                           |           1 |
+| TV Movie|Animation|Adventure                        |           1 |
+| TV Movie|Adventure|Drama|Science Fiction            |           1 |
+| TV Movie|Adventure|Comedy|Family                    |           1 |
+| TV Movie|Adventure|Comedy                           |           1 |
+| TV Movie|Adventure                                  |           1 |
+| TV Movie|Action|Science Fiction                     |           1 |
+| TV Movie|Action|Drama|Western                       |           1 |
+| TV Movie|Action|Adventure|Documentary               |           1 |
+| TV Movie|Action|Adventure|Comedy|Family             |           1 |
+| Science Fiction|Thriller|Mystery                    |           1 |
+| Science Fiction|Thriller|Fantasy                    |           1 |
+| Science Fiction|Thriller|Drama|Crime                |           1 |
+| Science Fiction|Thriller|Action|Adventure           |           1 |
+| Science Fiction|Mystery|Thriller                    |           1 |
+| Science Fiction|Mystery|Horror|Thriller             |           1 |
+| Science Fiction|Mystery|Adventure                   |           1 |
+| Science Fiction|Horror|Mystery                      |           1 |
+| Science Fiction|Horror|Action|Thriller              |           1 |
+| Science Fiction|Fantasy|Horror|Drama                |           1 |
+| Science Fiction|Fantasy|Action|Crime                |           1 |
+| Science Fiction|Fantasy|Action|Adventure            |           1 |
+| Science Fiction|Fantasy                             |           1 |
+| Science Fiction|Drama|Romance|Fantasy               |           1 |
+| Science Fiction|Drama|Romance                       |           1 |
+| Science Fiction|Drama|Fantasy|Romance               |           1 |
+| Science Fiction|Drama|Family                        |           1 |
+| Science Fiction|Drama|Comedy                        |           1 |
+| Science Fiction|Comedy|Thriller|Horror              |           1 |
+| Science Fiction|Comedy|Romance                      |           1 |
+| Science Fiction|Comedy|Mystery                      |           1 |
+| Science Fiction|Comedy|Family|Romance               |           1 |
+| Science Fiction|Comedy|Drama|Romance                |           1 |
+| Science Fiction|Comedy|Drama|Crime                  |           1 |
+| Science Fiction|Comedy|Crime|Action                 |           1 |
+| Science Fiction|Comedy|Crime                        |           1 |
+| Science Fiction|Comedy|Animation|Family             |           1 |
+| Science Fiction|Comedy|Adventure                    |           1 |
+| Science Fiction|Animation|Family|Comedy|Adventure   |           1 |
+| Science Fiction|Animation|Comedy                    |           1 |
+| Science Fiction|Adventure|Thriller                  |           1 |
+| Science Fiction|Adventure|Fantasy                   |           1 |
+| Science Fiction|Adventure|Family|Fantasy            |           1 |
+| Science Fiction|Adventure|Family                    |           1 |
+| Science Fiction|Adventure|Drama|Fantasy             |           1 |
+| Science Fiction|Adventure|Comedy                    |           1 |
+| Science Fiction|Adventure|Animation|Action|Family   |           1 |
+| Science Fiction|Adventure|Action|Comedy|Family      |           1 |
+| Science Fiction|Action|Thriller|Crime|Drama         |           1 |
+| Science Fiction|Action|Thriller|Adventure           |           1 |
+| Science Fiction|Action|Horror|Thriller|Adventure    |           1 |
+| Science Fiction|Action|Comedy|Horror                |           1 |
+| Science Fiction|Action|Comedy                       |           1 |
+| Science Fiction|Action|Animation|Adventure          |           1 |
+| Science Fiction|Action|Adventure|Fantasy|Comedy     |           1 |
+| Science Fiction|Action|Adventure|Drama|Thriller     |           1 |
+| Science Fiction|Action|Adventure|Drama              |           1 |
+| Science Fiction|Action|Adventure|Comedy|Family      |           1 |
+| Science Fiction|Action|Adventure|Animation|Family   |           1 |
+| Science Fiction|Action|Adventure|Animation          |           1 |
+| Romance|Western                                     |           1 |
+| Romance|War|Documentary|Drama                       |           1 |
+| Romance|Thriller|Western                            |           1 |
+| Romance|Science Fiction|Thriller                    |           1 |
+| Romance|Science Fiction|Horror|Action|Crime         |           1 |
+| Romance|Science Fiction|Drama|Fantasy               |           1 |
+| Romance|Science Fiction|Drama                       |           1 |
+| Romance|Science Fiction                             |           1 |
+| Romance|Music|TV Movie|Comedy                       |           1 |
+| Romance|Music|Comedy                                |           1 |
+| Romance|Horror|Thriller                             |           1 |
+| Romance|Horror                                      |           1 |
+| Romance|Fantasy|Horror                              |           1 |
+| Romance|Fantasy|Family|Drama                        |           1 |
+| Romance|Fantasy|Drama|Comedy                        |           1 |
+| Romance|Fantasy|Animation|Music                     |           1 |
+| Romance|Family|Animation|Music                      |           1 |
+| Romance|Family|Animation|Fantasy|Music              |           1 |
+| Romance|Drama|War                                   |           1 |
+| Romance|Drama|Mystery|Thriller|Horror               |           1 |
+| Romance|Drama|History                               |           1 |
+| Romance|Drama|Foreign                               |           1 |
+| Romance|Drama|Family                                |           1 |
+| Romance|Drama|Crime                                 |           1 |
+| Romance|Drama|Comedy|Mystery                        |           1 |
+| Romance|Drama|Adventure                             |           1 |
+| Romance|Crime|Thriller|Drama                        |           1 |
+| Romance|Crime|Drama|Thriller                        |           1 |
+| Romance|Crime|Drama                                 |           1 |
+| Romance|Crime|Comedy                                |           1 |
+| Romance|Comedy|Thriller                             |           1 |
+| Romance|Comedy|Family|Action|Adventure              |           1 |
+| Romance|Comedy|Drama|Mystery                        |           1 |
+| Romance|Comedy|Drama|Music                          |           1 |
+| Romance|Comedy|Drama|Horror                         |           1 |
+| Romance|Comedy|Drama|Foreign                        |           1 |
+| Romance|Comedy|Drama|Family                         |           1 |
+| Romance|Comedy|Crime|Fantasy                        |           1 |
+| Romance|Comedy|Crime                                |           1 |
+| Romance|Comedy|Animation|Drama|Family               |           1 |
+| Romance|Animation|Family|Comedy|Adventure           |           1 |
+| Romance|Animation|Family|Adventure|Fantasy          |           1 |
+| Romance|Animation|Adventure|Comedy|Family           |           1 |
+| Romance|Adventure|Action|History                    |           1 |
+| Romance|Action|Comedy|Crime|Mystery                 |           1 |
+| Romance|Action|Comedy                               |           1 |
+| Romance|Action|Adventure|Western|Drama              |           1 |
+| Romance|Action|Adventure|Crime|Mystery              |           1 |
+| Mystery|Thriller|Horror|Science Fiction             |           1 |
+| Mystery|Thriller|Fantasy|Horror|Drama               |           1 |
+| Mystery|Thriller|Drama|Romance|Crime                |           1 |
+| Mystery|Thriller|Crime|Horror                       |           1 |
+| Mystery|Thriller|Crime|Drama                        |           1 |
+| Mystery|Thriller|Adventure                          |           1 |
+| Mystery|Science Fiction|Thriller|Drama              |           1 |
+| Mystery|Science Fiction|Romance                     |           1 |
+| Mystery|Science Fiction                             |           1 |
+| Mystery|Romance|Thriller                            |           1 |
+| Mystery|Horror|Thriller|Crime                       |           1 |
+| Mystery|Horror|Comedy                               |           1 |
+| Mystery|Horror|Action                               |           1 |
+| Mystery|Fantasy|Comedy|Adventure                    |           1 |
+| Mystery|Fantasy|Adventure|Comedy                    |           1 |
+| Mystery|Drama|Thriller|Romance|War                  |           1 |
+| Mystery|Drama|Science Fiction|Thriller              |           1 |
+| Mystery|Drama|Science Fiction                       |           1 |
+| Mystery|Drama|Horror|Thriller                       |           1 |
+| Mystery|Drama|Horror|Science Fiction                |           1 |
+| Mystery|Drama|Horror                                |           1 |
+| Mystery|Drama|History|Family|Thriller               |           1 |
+| Mystery|Drama|Fantasy|Science Fiction|Thriller      |           1 |
+| Mystery|Drama|Fantasy                               |           1 |
+| Mystery|Drama|Crime|Thriller|Horror                 |           1 |
+| Mystery|Drama|Crime|Thriller                        |           1 |
+| Mystery|Drama|Comedy                                |           1 |
+| Mystery|Drama|Adventure                             |           1 |
+| Mystery|Documentary|Crime                           |           1 |
+| Mystery|Crime|Drama|Thriller                        |           1 |
+| Mystery|Crime|Action|Thriller|Drama                 |           1 |
+| Mystery|Comedy|Drama                                |           1 |
+| Mystery|Comedy|Crime                                |           1 |
+| Mystery|Animation|Comedy|Fantasy                    |           1 |
+| Mystery|Adventure|Comedy|Romance|Drama              |           1 |
+| Mystery|Adventure|Comedy                            |           1 |
+| Mystery|Action|Thriller|Science Fiction|Adventure   |           1 |
+| Mystery|Action|Drama|Thriller|Crime                 |           1 |
+| Mystery|Action|Adventure|Horror                     |           1 |
+| Music|Romance|Family                                |           1 |
+| Music|Romance|Drama                                 |           1 |
+| Music|Romance|Comedy|Drama                          |           1 |
+| Music|Romance|Comedy                                |           1 |
+| Music|Family|Drama                                  |           1 |
+| Music|Family|Comedy                                 |           1 |
+| Music|Family|Animation|Comedy                       |           1 |
+| Music|Drama|Romance|Crime                           |           1 |
+| Music|Drama|Fantasy|Romance                         |           1 |
+| Music|Drama|Documentary|Crime                       |           1 |
+| Music|Drama|Crime|Romance                           |           1 |
+| Music|Drama|Crime|Comedy                            |           1 |
+| Music|Drama|Crime                                   |           1 |
+| Music|Documentary|Drama                             |           1 |
+| Music|Crime|Drama                                   |           1 |
+| Music|Comedy|Romance|Drama                          |           1 |
+| Music|Comedy|Family|Romance                         |           1 |
+| Music|Comedy|Drama|Romance|Science Fiction          |           1 |
+| Music|Comedy|Drama|Romance                          |           1 |
+| Music|Comedy|Drama|Family                           |           1 |
+| Music|Comedy|Crime                                  |           1 |
+| Music|Comedy|Action|Crime                           |           1 |
+| Music|Animation|Comedy|Family                       |           1 |
+| Music|Adventure|Animation|Action|Comedy             |           1 |
+| Music|Action|Comedy|Crime                           |           1 |
+| Music|Action|Adventure|Comedy|Family                |           1 |
+| Horror|Western|Adventure|Drama                      |           1 |
+| Horror|Thriller|Western                             |           1 |
+| Horror|Thriller|War                                 |           1 |
+| Horror|Thriller|Science Fiction|Mystery|Foreign     |           1 |
+| Horror|Thriller|Mystery|Fantasy                     |           1 |
+| Horror|Thriller|Fantasy|Mystery                     |           1 |
+| Horror|Thriller|Drama|Mystery                       |           1 |
+| Horror|Thriller|Crime|Drama                         |           1 |
+| Horror|Thriller|Comedy|Crime                        |           1 |
+| Horror|Thriller|Comedy|Action                       |           1 |
+| Horror|Thriller|Adventure                           |           1 |
+| Horror|TV Movie                                     |           1 |
+| Horror|Science Fiction|TV Movie                     |           1 |
+| Horror|Science Fiction|Mystery                      |           1 |
+| Horror|Science Fiction|Fantasy                      |           1 |
+| Horror|Science Fiction|Crime                        |           1 |
+| Horror|Science Fiction|Action                       |           1 |
+| Horror|Romance|Thriller                             |           1 |
+| Horror|Romance|Comedy                               |           1 |
+| Horror|Mystery|Thriller|Crime                       |           1 |
+| Horror|Mystery|TV Movie|Thriller                    |           1 |
+| Horror|Mystery|Fantasy|Thriller                     |           1 |
+| Horror|Mystery|Crime                                |           1 |
+| Horror|Foreign                                      |           1 |
+| Horror|Fantasy|Thriller                             |           1 |
+| Horror|Fantasy|Comedy                               |           1 |
+| Horror|Family|Foreign                               |           1 |
+| Horror|Drama|Thriller|Science Fiction               |           1 |
+| Horror|Drama|Thriller|Mystery                       |           1 |
+| Horror|Drama|Thriller|Crime                         |           1 |
+| Horror|Drama|Romance|Thriller                       |           1 |
+| Horror|Drama|Romance                                |           1 |
+| Horror|Documentary|Mystery                          |           1 |
+| Horror|Documentary                                  |           1 |
+| Horror|Crime|Mystery|Thriller                       |           1 |
+| Horror|Crime|Drama|Thriller                         |           1 |
+| Horror|Comedy|Science Fiction|Thriller              |           1 |
+| Horror|Comedy|Music|Science Fiction                 |           1 |
+| Horror|Comedy|Family                                |           1 |
+| Horror|Comedy|Drama                                 |           1 |
+| Horror|Comedy|Crime|Thriller                        |           1 |
+| Horror|Comedy|Action|Science Fiction|Thriller       |           1 |
+| Horror|Comedy|Action|Fantasy|Science Fiction        |           1 |
+| Horror|Animation|Mystery                            |           1 |
+| Horror|Adventure|Fantasy                            |           1 |
+| Horror|Adventure|Drama|Thriller                     |           1 |
+| Horror|Adventure|Action                             |           1 |
+| Horror|Action|Thriller|Crime                        |           1 |
+| Horror|Action|Science Fiction|Thriller              |           1 |
+| Horror|Action|Mystery|Thriller                      |           1 |
+| Horror|Action|Drama|Fantasy|War                     |           1 |
+| Horror|Action|Crime|Drama|Thriller                  |           1 |
+| History|War|Action|Drama                            |           1 |
+| History|Romance|War                                 |           1 |
+| History|Music                                       |           1 |
+| History|Drama|Western|Crime                         |           1 |
+| History|Drama|Thriller|War                          |           1 |
+| History|Drama|Thriller|Mystery                      |           1 |
+| History|Drama|Thriller|Crime|Mystery                |           1 |
+| History|Drama|Thriller                              |           1 |
+| History|Drama|Romance                               |           1 |
+| History|Drama|Music                                 |           1 |
+| History|Drama|Family                                |           1 |
+| History|Drama|Adventure|War                         |           1 |
+| History|Documentary|Family                          |           1 |
+| History|Documentary|Animation                       |           1 |
+| History|Crime|Horror|Documentary                    |           1 |
+| History|Comedy|Drama                                |           1 |
+| History|Comedy|Documentary                          |           1 |
+| History|Adventure|Drama                             |           1 |
+| History|Adventure                                   |           1 |
+| History|Action|Drama|Adventure|War                  |           1 |
+| History|Action|Adventure                            |           1 |
+| History                                             |           1 |
+| Foreign|Romance|Thriller                            |           1 |
+| Foreign|Horror|Mystery                              |           1 |
+| Foreign|Documentary                                 |           1 |
+| Foreign|Crime|Drama                                 |           1 |
+| Foreign|Action|Science Fiction|Thriller|Horror      |           1 |
+| Foreign                                             |           1 |
+| Fantasy|Thriller|Horror|Science Fiction             |           1 |
+| Fantasy|Thriller|Horror                             |           1 |
+| Fantasy|Thriller|Action|Crime                       |           1 |
+| Fantasy|Thriller                                    |           1 |
+| Fantasy|Science Fiction|Horror                      |           1 |
+| Fantasy|Science Fiction|Family|Animation            |           1 |
+| Fantasy|Science Fiction|Family                      |           1 |
+| Fantasy|Science Fiction|Animation|Action|Adventure  |           1 |
+| Fantasy|Romance|Family|Comedy                       |           1 |
+| Fantasy|Mystery|Thriller                            |           1 |
+| Fantasy|Mystery                                     |           1 |
+| Fantasy|Music|Romance                               |           1 |
+| Fantasy|Horror|Thriller|War                         |           1 |
+| Fantasy|Horror|Thriller|Science Fiction|Mystery     |           1 |
+| Fantasy|Horror|Family                               |           1 |
+| Fantasy|Horror|Comedy|Science Fiction               |           1 |
+| Fantasy|Horror|Action|Thriller|Science Fiction      |           1 |
+| Fantasy|Horror|Action|Science Fiction               |           1 |
+| Fantasy|Family|Comedy|Animation                     |           1 |
+| Fantasy|Family|Animation|Adventure                  |           1 |
+| Fantasy|Drama|Thriller|Romance                      |           1 |
+| Fantasy|Drama|Science Fiction|Romance|Family        |           1 |
+| Fantasy|Drama|Science Fiction|Foreign               |           1 |
+| Fantasy|Drama|Science Fiction|Family                |           1 |
+| Fantasy|Drama|Music|Romance                         |           1 |
+| Fantasy|Drama|Horror|Action|Comedy                  |           1 |
+| Fantasy|Drama|Crime                                 |           1 |
+| Fantasy|Drama|Comedy|Thriller|Science Fiction       |           1 |
+| Fantasy|Drama|Comedy|Thriller                       |           1 |
+| Fantasy|Drama|Comedy|Science Fiction|Family         |           1 |
+| Fantasy|Drama|Comedy|Romance|Foreign                |           1 |
+| Fantasy|Drama|Comedy|Romance|Family                 |           1 |
+| Fantasy|Drama|Action|Thriller|Animation             |           1 |
+| Fantasy|Drama|Action|Foreign|Adventure              |           1 |
+| Fantasy|Drama|Action|Comedy|Crime                   |           1 |
+| Fantasy|Drama|Action                                |           1 |
+| Fantasy|Comedy|Science Fiction|Romance|Thriller     |           1 |
+| Fantasy|Comedy|Mystery                              |           1 |
+| Fantasy|Comedy|Drama|Romance                        |           1 |
+| Fantasy|Comedy|Animation|Science Fiction|Family     |           1 |
+| Fantasy|Comedy|Animation                            |           1 |
+| Fantasy|Comedy|Adventure                            |           1 |
+| Fantasy|Animation|Science Fiction|Family|Action     |           1 |
+| Fantasy|Animation|Romance|Family                    |           1 |
+| Fantasy|Animation|Horror|Comedy|Thriller            |           1 |
+| Fantasy|Animation|Horror|Action|Thriller            |           1 |
+| Fantasy|Animation|Family|Comedy                     |           1 |
+| Fantasy|Animation|Drama|Romance|Family              |           1 |
+| Fantasy|Animation|Drama|Family                      |           1 |
+| Fantasy|Animation|Drama|Comedy|Science Fiction      |           1 |
+| Fantasy|Animation|Comedy|Drama                      |           1 |
+| Fantasy|Animation|Comedy|Crime|Family               |           1 |
+| Fantasy|Animation|Action|Comedy                     |           1 |
+| Fantasy|Animation                                   |           1 |
+| Fantasy|Adventure|Comedy|Family                     |           1 |
+| Fantasy|Adventure|Comedy                            |           1 |
+| Fantasy|Adventure|Animation|Family                  |           1 |
+| Fantasy|Adventure|Action|Family|Romance             |           1 |
+| Fantasy|Adventure|Action|Drama                      |           1 |
+| Fantasy|Adventure|Action|Comedy|Drama               |           1 |
+| Fantasy|Action|Science Fiction|Thriller|Horror      |           1 |
+| Fantasy|Action|Science Fiction|Thriller             |           1 |
+| Fantasy|Action|Horror|Science Fiction|Drama         |           1 |
+| Fantasy|Action|Family                               |           1 |
+| Fantasy|Action|Drama                                |           1 |
+| Fantasy|Action|Crime|Science Fiction|Thriller       |           1 |
+| Fantasy|Action|Comedy|Crime                         |           1 |
+| Fantasy|Action|Adventure|Science Fiction|Thriller   |           1 |
+| Fantasy|Action|Adventure|Family|Comedy              |           1 |
+| Fantasy|Action|Adventure|Family                     |           1 |
+| Fantasy|Action|Adventure|Comedy                     |           1 |
+| Fantasy|Action|Adventure|Animation|Comedy           |           1 |
+| Family|TV Movie|Romance                             |           1 |
+| Family|TV Movie|Animation                           |           1 |
+| Family|Science Fiction|TV Movie|Adventure|Drama     |           1 |
+| Family|Science Fiction|Adventure                    |           1 |
+| Family|Science Fiction|Action|Adventure             |           1 |
+| Family|Romance                                      |           1 |
+| Family|History|Action|Drama                         |           1 |
+| Family|Fantasy|Science Fiction|Adventure|Comedy     |           1 |
+| Family|Fantasy|Science Fiction|Adventure            |           1 |
+| Family|Fantasy|Science Fiction                      |           1 |
+| Family|Fantasy|Music|Romance|Science Fiction        |           1 |
+| Family|Fantasy|Horror|TV Movie                      |           1 |
+| Family|Fantasy|Horror                               |           1 |
+| Family|Fantasy|Drama                                |           1 |
+| Family|Fantasy|Comedy|Romance                       |           1 |
+| Family|Fantasy|Comedy                               |           1 |
+| Family|Fantasy|Animation|Adventure                  |           1 |
+| Family|Fantasy|Animation                            |           1 |
+| Family|Fantasy|Adventure                            |           1 |
+| Family|Drama|Romance|Comedy                         |           1 |
+| Family|Drama|Comedy                                 |           1 |
+| Family|Comedy|Romance                               |           1 |
+| Family|Comedy|Crime                                 |           1 |
+| Family|Animation|TV Movie                           |           1 |
+| Family|Animation|Music|Drama                        |           1 |
+| Family|Animation|Drama                              |           1 |
+| Family|Animation|Comedy|Romance                     |           1 |
+| Family|Animation|Action|Science Fiction             |           1 |
+| Family|Adventure|Science Fiction                    |           1 |
+| Family|Adventure|Comedy|Science Fiction|Crime       |           1 |
+| Family|Adventure|Comedy|Music|Fantasy               |           1 |
+| Family|Adventure|Comedy                             |           1 |
+| Family|Adventure|Animation|Comedy                   |           1 |
+| Family|Action|Science Fiction                       |           1 |
+| Family|Action|Drama                                 |           1 |
+| Family|Action|Adventure                             |           1 |
+| Drama|Western|War|Romance                           |           1 |
+| Drama|War|Romance|Western                           |           1 |
+| Drama|Thriller|TV Movie                             |           1 |
+| Drama|Thriller|Science Fiction|Romance|Foreign      |           1 |
+| Drama|Thriller|Romance|Crime                        |           1 |
+| Drama|Thriller|Mystery|War                          |           1 |
+| Drama|Thriller|Mystery|Music|Romance                |           1 |
+| Drama|Thriller|Mystery|Horror                       |           1 |
+| Drama|Thriller|Mystery|Foreign                      |           1 |
+| Drama|Thriller|Mystery|Action                       |           1 |
+| Drama|Thriller|Horror|Mystery                       |           1 |
+| Drama|Thriller|History|War                          |           1 |
+| Drama|Thriller|Foreign|Action|Crime                 |           1 |
+| Drama|Thriller|Fantasy|Mystery                      |           1 |
+| Drama|Thriller|Crime|Mystery|Romance                |           1 |
+| Drama|Thriller|Crime|History                        |           1 |
+| Drama|Thriller|Crime|Adventure                      |           1 |
+| Drama|Thriller|Action|Crime                         |           1 |
+| Drama|TV Movie|Crime|Mystery                        |           1 |
+| Drama|Science Fiction|TV Movie                      |           1 |
+| Drama|Science Fiction|Romance                       |           1 |
+| Drama|Science Fiction|Mystery|Romance               |           1 |
+| Drama|Science Fiction|Fantasy|Adventure             |           1 |
+| Drama|Science Fiction|Family                        |           1 |
+| Drama|Science Fiction|Animation                     |           1 |
+| Drama|Science Fiction|Adventure                     |           1 |
+| Drama|Science Fiction|Action|Adventure              |           1 |
+| Drama|Romance|War|History                           |           1 |
+| Drama|Romance|War|Foreign                           |           1 |
+| Drama|Romance|Music                                 |           1 |
+| Drama|Romance|History                               |           1 |
+| Drama|Romance|Foreign|Comedy                        |           1 |
+| Drama|Romance|Fantasy                               |           1 |
+| Drama|Romance|Crime|Mystery                         |           1 |
+| Drama|Romance|Comedy|Music                          |           1 |
+| Drama|Romance|Adventure|War                         |           1 |
+| Drama|Mystery|War                                   |           1 |
+| Drama|Mystery|Thriller|TV Movie                     |           1 |
+| Drama|Mystery|Thriller|Romance                      |           1 |
+| Drama|Mystery|Thriller|Horror                       |           1 |
+| Drama|Mystery|Thriller|Fantasy                      |           1 |
+| Drama|Mystery|Thriller|Crime|Romance                |           1 |
+| Drama|Mystery|Romance|Science Fiction|Thriller      |           1 |
+| Drama|Music|TV Movie                                |           1 |
+| Drama|Music|Romance|War                             |           1 |
+| Drama|Music|Mystery|Romance                         |           1 |
+| Drama|Music|Mystery                                 |           1 |
+| Drama|Music|Family                                  |           1 |
+| Drama|Music|Adventure|Fantasy                       |           1 |
+| Drama|Horror|Thriller|War                           |           1 |
+| Drama|Horror|Thriller|TV Movie                      |           1 |
+| Drama|Horror|Thriller|Science Fiction|Foreign       |           1 |
+| Drama|Horror|Thriller|Music                         |           1 |
+| Drama|Horror|Science Fiction|Romance                |           1 |
+| Drama|Horror|Science Fiction|Mystery|Thriller       |           1 |
+| Drama|Horror|Science Fiction|Mystery                |           1 |
+| Drama|Horror|Romance|Thriller                       |           1 |
+| Drama|Horror|Romance|Foreign                        |           1 |
+| Drama|Horror|Mystery|Science Fiction|Thriller       |           1 |
+| Drama|Horror|Music                                  |           1 |
+| Drama|Horror|History                                |           1 |
+| Drama|Horror|Fantasy                                |           1 |
+| Drama|Horror|Comedy|Thriller|Science Fiction        |           1 |
+| Drama|Horror|Comedy|Thriller|Romance                |           1 |
+| Drama|Horror|Comedy|Thriller|Foreign                |           1 |
+| Drama|Horror|Comedy                                 |           1 |
+| Drama|Horror|Action|Thriller|Mystery                |           1 |
+| Drama|Horror|Action|Thriller                        |           1 |
+| Drama|History|War|Romance                           |           1 |
+| Drama|History|War|Action                            |           1 |
+| Drama|History|Thriller|Science Fiction              |           1 |
+| Drama|History|Romance|War                           |           1 |
+| Drama|History|Romance|TV Movie                      |           1 |
+| Drama|History|Mystery                               |           1 |
+| Drama|History|Horror                                |           1 |
+| Drama|History|Crime|Thriller|Action                 |           1 |
+| Drama|History|Crime                                 |           1 |
+| Drama|Foreign|War                                   |           1 |
+| Drama|Foreign|Thriller                              |           1 |
+| Drama|Foreign|Science Fiction                       |           1 |
+| Drama|Foreign|Romance|Thriller                      |           1 |
+| Drama|Foreign|Mystery                               |           1 |
+| Drama|Foreign|Horror|Mystery|Thriller               |           1 |
+| Drama|Foreign|Crime                                 |           1 |
+| Drama|Fantasy|Western                               |           1 |
+| Drama|Fantasy|Thriller|Mystery                      |           1 |
+| Drama|Fantasy|Romance|Science Fiction               |           1 |
+| Drama|Fantasy|Mystery|Science Fiction|Thriller      |           1 |
+| Drama|Fantasy|Mystery|Romance                       |           1 |
+| Drama|Fantasy|Horror|Thriller|Mystery               |           1 |
+| Drama|Fantasy|Horror|Science Fiction|Thriller       |           1 |
+| Drama|Fantasy|Horror|Romance                        |           1 |
+| Drama|Fantasy|Horror|Mystery|Romance                |           1 |
+| Drama|Fantasy|Adventure                             |           1 |
+| Drama|Family|TV Movie                               |           1 |
+| Drama|Family|Science Fiction|Fantasy                |           1 |
+| Drama|Family|Romance|Music                          |           1 |
+| Drama|Family|Music                                  |           1 |
+| Drama|Family|Foreign                                |           1 |
+| Drama|Family|Fantasy|TV Movie                       |           1 |
+| Drama|Family|Fantasy|Science Fiction                |           1 |
+| Drama|Family|Comedy|TV Movie                        |           1 |
+| Drama|Family|Animation|Adventure                    |           1 |
+| Drama|Family|Adventure                              |           1 |
+| Drama|Documentary|Comedy                            |           1 |
+| Drama|Crime|War                                     |           1 |
+| Drama|Crime|TV Movie                                |           1 |
+| Drama|Crime|Mystery|Comedy                          |           1 |
+| Drama|Crime|Music                                   |           1 |
+| Drama|Comedy|Western|Romance                        |           1 |
+| Drama|Comedy|War|Crime|Thriller                     |           1 |
+| Drama|Comedy|War                                    |           1 |
+| Drama|Comedy|Thriller|Romance|Foreign               |           1 |
+| Drama|Comedy|Thriller|Mystery|Romance               |           1 |
+| Drama|Comedy|Thriller                               |           1 |
+| Drama|Comedy|Science Fiction|Romance                |           1 |
+| Drama|Comedy|Science Fiction                        |           1 |
+| Drama|Comedy|Romance|Science Fiction                |           1 |
+| Drama|Comedy|Music|Romance|Family                   |           1 |
+| Drama|Comedy|History|Music                          |           1 |
+| Drama|Comedy|History|Family                         |           1 |
+| Drama|Comedy|Family|TV Movie                        |           1 |
+| Drama|Comedy|Documentary|Romance|Family             |           1 |
+| Drama|Comedy|Crime|Romance                          |           1 |
+| Drama|Animation|War                                 |           1 |
+| Drama|Animation|Family|Comedy|Fantasy               |           1 |
+| Drama|Animation|Family|Comedy                       |           1 |
+| Drama|Animation|Adventure                           |           1 |
+| Drama|Adventure|Thriller                            |           1 |
+| Drama|Adventure|Science Fiction|Romance             |           1 |
+| Drama|Adventure|Science Fiction                     |           1 |
+| Drama|Adventure|Romance|Thriller                    |           1 |
+| Drama|Adventure|Horror                              |           1 |
+| Drama|Adventure|Documentary                         |           1 |
+| Drama|Adventure|Comedy                              |           1 |
+| Drama|Action|Western|Romance                        |           1 |
+| Drama|Action|Western                                |           1 |
+| Drama|Action|War|History                            |           1 |
+| Drama|Action|Thriller|Foreign                       |           1 |
+| Drama|Action|Thriller|Crime|War                     |           1 |
+| Drama|Action|Thriller|Crime|Foreign                 |           1 |
+| Drama|Action|Science Fiction|Thriller               |           1 |
+| Drama|Action|Science Fiction                        |           1 |
+| Drama|Action|Music|Romance                          |           1 |
+| Drama|Action|History|Western|Romance                |           1 |
+| Drama|Action|History|Thriller                       |           1 |
+| Drama|Action|Foreign                                |           1 |
+| Drama|Action|Crime|Mystery                          |           1 |
+| Drama|Action|Crime|Foreign                          |           1 |
+| Drama|Action|Comedy|Western|Music                   |           1 |
+| Drama|Action|Comedy|Music|Romance                   |           1 |
+| Drama|Action|Comedy|Music|Family                    |           1 |
+| Drama|Action|Comedy|Crime|Thriller                  |           1 |
+| Drama|Action|Adventure|Crime|Thriller               |           1 |
+| Drama|Action|Adventure                              |           1 |
+| Documentary|Thriller                                |           1 |
+| Documentary|History|War                             |           1 |
+| Documentary|Family|Adventure                        |           1 |
+| Documentary|Drama|War|Crime|Mystery                 |           1 |
+| Documentary|Drama|Music|Thriller                    |           1 |
+| Documentary|Drama|History                           |           1 |
+| Documentary|Drama|Foreign                           |           1 |
+| Documentary|Drama|Comedy                            |           1 |
+| Documentary|Crime                                   |           1 |
+| Documentary|Comedy|TV Movie                         |           1 |
+| Documentary|Action|Adventure                        |           1 |
+| Crime|Western                                       |           1 |
+| Crime|Thriller|Mystery|Drama                        |           1 |
+| Crime|Thriller|Action|Horror                        |           1 |
+| Crime|Science Fiction|Thriller                      |           1 |
+| Crime|Mystery|Thriller|Action                       |           1 |
+| Crime|Mystery                                       |           1 |
+| Crime|Horror|Thriller|Mystery                       |           1 |
+| Crime|Horror|Action|Thriller                        |           1 |
+| Crime|Horror                                        |           1 |
+| Crime|History                                       |           1 |
+| Crime|Fantasy|Science Fiction|Thriller              |           1 |
+| Crime|Fantasy|Drama                                 |           1 |
+| Crime|Family|Comedy                                 |           1 |
+| Crime|Drama|Thriller|Horror                         |           1 |
+| Crime|Drama|Thriller|History                        |           1 |
+| Crime|Drama|Thriller|Action                         |           1 |
+| Crime|Drama|Romance|Foreign                         |           1 |
+| Crime|Drama|Mystery|Western                         |           1 |
+| Crime|Drama|Mystery|Thriller|Action                 |           1 |
+| Crime|Drama|Music                                   |           1 |
+| Crime|Drama|Horror|Mystery|Science Fiction          |           1 |
+| Crime|Drama|History|Thriller                        |           1 |
+| Crime|Drama|History|Romance                         |           1 |
+| Crime|Drama|History|Documentary                     |           1 |
+| Crime|Drama|Family|Romance                          |           1 |
+| Crime|Drama|Family                                  |           1 |
+| Crime|Drama|Action|Thriller|Mystery                 |           1 |
+| Crime|Comedy|Family                                 |           1 |
+| Crime|Comedy|Drama|Thriller                         |           1 |
+| Crime|Comedy|Action|Adventure                       |           1 |
+| Crime|Adventure|Action|Comedy|Thriller              |           1 |
+| Crime|Adventure|Action|Comedy|Science Fiction       |           1 |
+| Crime|Action|Science Fiction                        |           1 |
+| Crime|Action|Mystery|Thriller                       |           1 |
+| Crime|Action|Horror|Thriller                        |           1 |
+| Crime|Action|Comedy                                 |           1 |
+| Comedy|War|History                                  |           1 |
+| Comedy|War|Adventure|Drama                          |           1 |
+| Comedy|Thriller|Music|Romance                       |           1 |
+| Comedy|Thriller|Drama                               |           1 |
+| Comedy|Thriller|Crime|Romance                       |           1 |
+| Comedy|Thriller|Crime|Foreign                       |           1 |
+| Comedy|Thriller|Crime|Drama                         |           1 |
+| Comedy|Thriller|Crime|Action                        |           1 |
+| Comedy|Thriller|Action|Drama                        |           1 |
+| Comedy|Thriller|Action|Crime                        |           1 |
+| Comedy|TV Movie|Romance                             |           1 |
+| Comedy|TV Movie|Animation|Science Fiction           |           1 |
+| Comedy|TV Movie                                     |           1 |
+| Comedy|Science Fiction|Thriller|Adventure           |           1 |
+| Comedy|Science Fiction|Music                        |           1 |
+| Comedy|Science Fiction|Family                       |           1 |
+| Comedy|Science Fiction|Adventure|Family             |           1 |
+| Comedy|Romance|Western                              |           1 |
+| Comedy|Romance|Science Fiction|Drama                |           1 |
+| Comedy|Romance|Music                                |           1 |
+| Comedy|Romance|Horror                               |           1 |
+| Comedy|Romance|Fantasy|Drama                        |           1 |
+| Comedy|Romance|Crime|Drama|Mystery                  |           1 |
+| Comedy|Romance|Crime                                |           1 |
+| Comedy|Romance|Adventure                            |           1 |
+| Comedy|Mystery|Romance|Thriller                     |           1 |
+| Comedy|Mystery|Romance                              |           1 |
+| Comedy|Music|War                                    |           1 |
+| Comedy|Music|Romance|Foreign                        |           1 |
+| Comedy|Music|Romance|Drama                          |           1 |
+| Comedy|Music|Mystery|Crime                          |           1 |
+| Comedy|Music|Family|Fantasy|Animation               |           1 |
+| Comedy|Music|Family|Fantasy                         |           1 |
+| Comedy|Music|Family                                 |           1 |
+| Comedy|Horror|Thriller|Mystery|Fantasy              |           1 |
+| Comedy|Horror|Thriller|Mystery                      |           1 |
+| Comedy|Horror|Thriller|Crime                        |           1 |
+| Comedy|Horror|Romance                               |           1 |
+| Comedy|Horror|Mystery|Thriller                      |           1 |
+| Comedy|Horror|Mystery                               |           1 |
+| Comedy|Horror|Music|Science Fiction                 |           1 |
+| Comedy|Horror|Music                                 |           1 |
+| Comedy|Horror|Action|Science Fiction                |           1 |
+| Comedy|Horror|Action                                |           1 |
+| Comedy|History|Horror                               |           1 |
+| Comedy|Fantasy|Thriller                             |           1 |
+| Comedy|Fantasy|Romance|TV Movie                     |           1 |
+| Comedy|Fantasy|Horror|Science Fiction               |           1 |
+| Comedy|Fantasy|Horror|Music|Thriller                |           1 |
+| Comedy|Fantasy|Foreign                              |           1 |
+| Comedy|Fantasy|Family|Music|Animation               |           1 |
+| Comedy|Family|Western                               |           1 |
+| Comedy|Family|Thriller                              |           1 |
+| Comedy|Family|Science Fiction|Drama                 |           1 |
+| Comedy|Family|Romance|Fantasy                       |           1 |
+| Comedy|Family|Mystery|TV Movie                      |           1 |
+| Comedy|Family|Mystery|Romance                       |           1 |
+| Comedy|Family|Music|TV Movie                        |           1 |
+| Comedy|Family|Music                                 |           1 |
+| Comedy|Family|Fantasy|Thriller|TV Movie             |           1 |
+| Comedy|Family|Fantasy|Romance                       |           1 |
+| Comedy|Family|Fantasy|Drama                         |           1 |
+| Comedy|Family|Drama|Fantasy                         |           1 |
+| Comedy|Family|Animation|Fantasy                     |           1 |
+| Comedy|Family|Animation|Adventure                   |           1 |
+| Comedy|Family|Adventure|Romance                     |           1 |
+| Comedy|Family|Adventure|Fantasy|Romance             |           1 |
+| Comedy|Family|Adventure|Crime                       |           1 |
+| Comedy|Family|Action                                |           1 |
+| Comedy|Drama|Romance|TV Movie                       |           1 |
+| Comedy|Drama|Romance|Science Fiction|Thriller       |           1 |
+| Comedy|Drama|Romance|Science Fiction                |           1 |
+| Comedy|Drama|Romance|Music                          |           1 |
+| Comedy|Drama|Romance|Fantasy|Music                  |           1 |
+| Comedy|Drama|Romance|Fantasy                        |           1 |
+| Comedy|Drama|Mystery|Science Fiction                |           1 |
+| Comedy|Drama|Mystery|Romance                        |           1 |
+| Comedy|Drama|Horror|Thriller                        |           1 |
+| Comedy|Drama|Horror|Mystery|Thriller                |           1 |
+| Comedy|Drama|History|Romance                        |           1 |
+| Comedy|Drama|Foreign|Thriller                       |           1 |
+| Comedy|Drama|Fantasy|Science Fiction                |           1 |
+| Comedy|Drama|Fantasy|Music                          |           1 |
+| Comedy|Drama|Fantasy|Horror|Mystery                 |           1 |
+| Comedy|Drama|Family|Science Fiction                 |           1 |
+| Comedy|Drama|Family|Fantasy|TV Movie                |           1 |
+| Comedy|Drama|Family|Fantasy|Science Fiction         |           1 |
+| Comedy|Drama|Family|Fantasy|Romance                 |           1 |
+| Comedy|Drama|Family|Fantasy|Foreign                 |           1 |
+| Comedy|Drama|Crime|Thriller                         |           1 |
+| Comedy|Drama|Adventure                              |           1 |
+| Comedy|Documentary|Foreign                          |           1 |
+| Comedy|Documentary|Drama                            |           1 |
+| Comedy|Crime|Thriller|Romance                       |           1 |
+| Comedy|Crime|Romance|Thriller                       |           1 |
+| Comedy|Crime|Romance|Drama                          |           1 |
+| Comedy|Crime|Mystery|Romance|Thriller               |           1 |
+| Comedy|Crime|Music                                  |           1 |
+| Comedy|Crime|Horror|Thriller                        |           1 |
+| Comedy|Crime|Family                                 |           1 |
+| Comedy|Crime|Drama|Romance                          |           1 |
+| Comedy|Crime|Drama|Mystery|Thriller                 |           1 |
+| Comedy|Crime|Drama|Mystery|Romance                  |           1 |
+| Comedy|Crime|Action                                 |           1 |
+| Comedy|Animation|Family|Fantasy                     |           1 |
+| Comedy|Adventure|Fantasy|Science Fiction|Action     |           1 |
+| Comedy|Adventure|Fantasy|Animation|Family           |           1 |
+| Comedy|Adventure|Fantasy|Action|Science Fiction     |           1 |
+| Comedy|Adventure|Family                             |           1 |
+| Comedy|Adventure|Crime|Family                       |           1 |
+| Comedy|Adventure|Crime                              |           1 |
+| Comedy|Adventure|Action|Crime                       |           1 |
+| Comedy|Action|Science Fiction|Thriller              |           1 |
+| Comedy|Action|Science Fiction                       |           1 |
+| Comedy|Action|Drama|Thriller|Fantasy                |           1 |
+| Comedy|Action|Drama                                 |           1 |
+| Comedy|Action|Adventure|Fantasy|Science Fiction     |           1 |
+| Animation|Thriller|Family                           |           1 |
+| Animation|Science Fiction|Thriller                  |           1 |
+| Animation|Science Fiction|Music                     |           1 |
+| Animation|Science Fiction|Fantasy|Adventure         |           1 |
+| Animation|Science Fiction|Family                    |           1 |
+| Animation|Romance|Family|Fantasy                    |           1 |
+| Animation|Romance                                   |           1 |
+| Animation|Music|Romance                             |           1 |
+| Animation|Music                                     |           1 |
+| Animation|Horror|Science Fiction|Thriller           |           1 |
+| Animation|Horror|Science Fiction                    |           1 |
+| Animation|Horror|Action|Comedy                      |           1 |
+| Animation|Horror|Action                             |           1 |
+| Animation|Fantasy|Romance                           |           1 |
+| Animation|Fantasy|Mystery                           |           1 |
+| Animation|Fantasy|Music                             |           1 |
+| Animation|Fantasy|Comedy|Science Fiction            |           1 |
+| Animation|Family|TV Movie                           |           1 |
+| Animation|Family|Science Fiction                    |           1 |
+| Animation|Family|Music                              |           1 |
+| Animation|Family|Foreign                            |           1 |
+| Animation|Family|Fantasy|Romance                    |           1 |
+| Animation|Family|Fantasy|Adventure|Comedy           |           1 |
+| Animation|Family|Fantasy|Adventure                  |           1 |
+| Animation|Family|Comedy|TV Movie                    |           1 |
+| Animation|Family|Comedy|Adventure|Fantasy           |           1 |
+| Animation|Family|Comedy|Adventure                   |           1 |
+| Animation|Family|Adventure|Drama|Fantasy            |           1 |
+| Animation|Family|Adventure|Comedy|Fantasy           |           1 |
+| Animation|Drama|Science Fiction|Thriller            |           1 |
+| Animation|Drama|Science Fiction                     |           1 |
+| Animation|Drama|Music|Romance                       |           1 |
+| Animation|Drama|Fantasy                             |           1 |
+| Animation|Drama|Family|Fantasy                      |           1 |
+| Animation|Documentary                               |           1 |
+| Animation|Comedy|Science Fiction|Fantasy            |           1 |
+| Animation|Comedy|Foreign                            |           1 |
+| Animation|Comedy|Fantasy                            |           1 |
+| Animation|Comedy|Family|Western|Adventure           |           1 |
+| Animation|Comedy|Family|TV Movie                    |           1 |
+| Animation|Comedy|Family|Music                       |           1 |
+| Animation|Comedy|Family|Fantasy|Science Fiction     |           1 |
+| Animation|Comedy|Family|Action                      |           1 |
+| Animation|Comedy|Drama|War                          |           1 |
+| Animation|Comedy|Drama|Romance                      |           1 |
+| Animation|Comedy|Drama|Family|Fantasy               |           1 |
+| Animation|Comedy|Adventure|Family|Science Fiction   |           1 |
+| Animation|Comedy|Action|Family                      |           1 |
+| Animation|Adventure|Fantasy|Family                  |           1 |
+| Animation|Adventure|Family|Comedy                   |           1 |
+| Animation|Adventure|Comedy|Family|Action            |           1 |
+| Animation|Adventure|Action|Drama|Fantasy            |           1 |
+| Animation|Adventure|Action|Comedy                   |           1 |
+| Animation|Action|Western                            |           1 |
+| Animation|Action|Science Fiction|Family|Adventure   |           1 |
+| Animation|Action|Family|Science Fiction             |           1 |
+| Animation|Action|Comedy|Family|Science Fiction      |           1 |
+| Adventure|Western                                   |           1 |
+| Adventure|War|History                               |           1 |
+| Adventure|War|Drama|History                         |           1 |
+| Adventure|Thriller                                  |           1 |
+| Adventure|TV Movie                                  |           1 |
+| Adventure|Science Fiction|Thriller|Mystery          |           1 |
+| Adventure|Science Fiction|Thriller                  |           1 |
+| Adventure|Science Fiction|Fantasy|Family            |           1 |
+| Adventure|Science Fiction|Action|Thriller           |           1 |
+| Adventure|Romance|Drama                             |           1 |
+| Adventure|Horror|Thriller|Mystery                   |           1 |
+| Adventure|Horror|Science Fiction|Thriller           |           1 |
+| Adventure|Horror|Mystery|Thriller                   |           1 |
+| Adventure|Horror|Comedy                             |           1 |
+| Adventure|History                                   |           1 |
+| Adventure|Fantasy|Thriller                          |           1 |
+| Adventure|Fantasy|Science Fiction|Action            |           1 |
+| Adventure|Fantasy|Romance|Science Fiction           |           1 |
+| Adventure|Fantasy|Romance|Family                    |           1 |
+| Adventure|Fantasy|Romance                           |           1 |
+| Adventure|Fantasy|Mystery                           |           1 |
+| Adventure|Fantasy|Horror|Science Fiction            |           1 |
+| Adventure|Fantasy|Horror|Comedy                     |           1 |
+| Adventure|Fantasy|Horror|Action|Thriller            |           1 |
+| Adventure|Fantasy|Horror                            |           1 |
+| Adventure|Fantasy|Family|Mystery                    |           1 |
+| Adventure|Fantasy|Drama|Thriller                    |           1 |
+| Adventure|Fantasy|Drama|Comedy|Science Fiction      |           1 |
+| Adventure|Fantasy|Drama|Comedy|Music                |           1 |
+| Adventure|Fantasy|Drama|Action|Science Fiction      |           1 |
+| Adventure|Fantasy|Comedy|Science Fiction|Romance    |           1 |
+| Adventure|Fantasy|Comedy|Family|Music               |           1 |
+| Adventure|Fantasy|Comedy                            |           1 |
+| Adventure|Fantasy|Animation|Science Fiction|Mystery |           1 |
+| Adventure|Fantasy|Animation|Science Fiction|Family  |           1 |
+| Adventure|Fantasy|Animation|Comedy|Science Fiction  |           1 |
+| Adventure|Fantasy|Animation|Comedy|Family           |           1 |
+| Adventure|Fantasy|Animation|Comedy|Action           |           1 |
+| Adventure|Fantasy|Animation|Action|Thriller         |           1 |
+| Adventure|Fantasy|Action|Western|Thriller           |           1 |
+| Adventure|Fantasy|Action|Science Fiction|Family     |           1 |
+| Adventure|Fantasy|Action|Romance                    |           1 |
+| Adventure|Fantasy|Action|Family                     |           1 |
+| Adventure|Fantasy|Action|Drama                      |           1 |
+| Adventure|Fantasy|Action|Comedy|Thriller            |           1 |
+| Adventure|Family|Science Fiction|Thriller           |           1 |
+| Adventure|Family|Science Fiction|Action             |           1 |
+| Adventure|Family|Science Fiction                    |           1 |
+| Adventure|Family|Romance                            |           1 |
+| Adventure|Family|Foreign                            |           1 |
+| Adventure|Family|Fantasy|TV Movie                   |           1 |
+| Adventure|Family|Fantasy|Science Fiction|Thriller   |           1 |
+| Adventure|Family|Fantasy|Romance|Science Fiction    |           1 |
+| Adventure|Family|Fantasy|Music|Science Fiction      |           1 |
+| Adventure|Family|Fantasy|Comedy|Romance             |           1 |
+| Adventure|Family|Drama|Comedy                       |           1 |
+| Adventure|Family|Animation|Action|Comedy            |           1 |
+| Adventure|Drama|Western                             |           1 |
+| Adventure|Drama|War|History|Action                  |           1 |
+| Adventure|Drama|War                                 |           1 |
+| Adventure|Drama|Thriller|Action                     |           1 |
+| Adventure|Drama|Science Fiction|Action              |           1 |
+| Adventure|Drama|Romance|Western                     |           1 |
+| Adventure|Drama|Romance|Action                      |           1 |
+| Adventure|Drama|Music|Romance                       |           1 |
+| Adventure|Drama|History|War                         |           1 |
+| Adventure|Drama|History|Thriller|War                |           1 |
+| Adventure|Drama|Foreign|Thriller                    |           1 |
+| Adventure|Drama|Fantasy|Romance|Science Fiction     |           1 |
+| Adventure|Drama|Fantasy|Horror                      |           1 |
+| Adventure|Drama|Fantasy|Family|Thriller             |           1 |
+| Adventure|Drama|Fantasy|Family|Mystery              |           1 |
+| Adventure|Drama|Comedy|Science Fiction|Thriller     |           1 |
+| Adventure|Drama|Action|Thriller|War                 |           1 |
+| Adventure|Drama|Action|Thriller|Crime               |           1 |
+| Adventure|Drama|Action|Romance|Family               |           1 |
+| Adventure|Drama|Action|History|Thriller             |           1 |
+| Adventure|Drama|Action|Family|Foreign               |           1 |
+| Adventure|Drama|Action|Family                       |           1 |
+| Adventure|Drama|Action|Comedy|Romance               |           1 |
+| Adventure|Crime|Drama|Mystery|Western               |           1 |
+| Adventure|Crime|Drama                               |           1 |
+| Adventure|Comedy|Western|Romance|Thriller           |           1 |
+| Adventure|Comedy|Science Fiction|Family             |           1 |
+| Adventure|Comedy|History|Romance                    |           1 |
+| Adventure|Comedy|Fantasy|Science Fiction|Family     |           1 |
+| Adventure|Comedy|Fantasy|Science Fiction            |           1 |
+| Adventure|Comedy|Fantasy|Family                     |           1 |
+| Adventure|Comedy|Family|Romance                     |           1 |
+| Adventure|Comedy|Family|Fantasy|Science Fiction     |           1 |
+| Adventure|Comedy|Family|Fantasy|Mystery             |           1 |
+| Adventure|Comedy|Family|Fantasy|Horror              |           1 |
+| Adventure|Comedy|Drama|Science Fiction              |           1 |
+| Adventure|Comedy|Drama|Fantasy|Mystery              |           1 |
+| Adventure|Comedy|Drama|Fantasy                      |           1 |
+| Adventure|Comedy|Drama|Family|TV Movie              |           1 |
+| Adventure|Comedy|Drama|Family|Romance               |           1 |
+| Adventure|Comedy|Crime|Mystery|Romance              |           1 |
+| Adventure|Animation|Science Fiction                 |           1 |
+| Adventure|Animation|Romance|Family                  |           1 |
+| Adventure|Animation|Romance                         |           1 |
+| Adventure|Animation|Fantasy                         |           1 |
+| Adventure|Animation|Family|Romance                  |           1 |
+| Adventure|Animation|Family|Comedy|Fantasy           |           1 |
+| Adventure|Animation|Drama|Family|Music              |           1 |
+| Adventure|Animation|Crime|Family|Fantasy            |           1 |
+| Adventure|Animation|Comedy|Fantasy|Family           |           1 |
+| Adventure|Animation|Action|Foreign                  |           1 |
+| Adventure|Animation|Action|Family|Mystery           |           1 |
+| Adventure|Action|Western|Thriller|Mystery           |           1 |
+| Adventure|Action|Western                            |           1 |
+| Adventure|Action|Thriller|Mystery                   |           1 |
+| Adventure|Action|Thriller|Foreign                   |           1 |
+| Adventure|Action|Thriller|Crime|Mystery             |           1 |
+| Adventure|Action|Thriller|Comedy                    |           1 |
+| Adventure|Action|Romance|Science Fiction            |           1 |
+| Adventure|Action|Horror|Science Fiction|Thriller    |           1 |
+| Adventure|Action|Horror|Science Fiction             |           1 |
+| Adventure|Action|Fantasy|Horror|Science Fiction     |           1 |
+| Adventure|Action|Family|Comedy                      |           1 |
+| Adventure|Action|Drama|Science Fiction|Thriller     |           1 |
+| Adventure|Action|Drama|Fantasy                      |           1 |
+| Adventure|Action|Crime|Mystery                      |           1 |
+| Adventure|Action|Comedy|Western                     |           1 |
+| Adventure|Action|Comedy|Science Fiction|Music       |           1 |
+| Adventure|Action|Comedy|Science Fiction|Family      |           1 |
+| Adventure|Action|Comedy|Romance                     |           1 |
+| Adventure|Action|Comedy|Foreign                     |           1 |
+| Adventure|Action|Comedy|Crime|Family                |           1 |
+| Adventure|Action|Animation|Fantasy|Science Fiction  |           1 |
+| Adventure|Action|Animation|Fantasy                  |           1 |
+| Action|Western|Drama|Fantasy|Thriller               |           1 |
+| Action|War|Science Fiction                          |           1 |
+| Action|War|Drama                                    |           1 |
+| Action|Thriller|Western                             |           1 |
+| Action|Thriller|War|History                         |           1 |
+| Action|Thriller|Science Fiction|Mystery|Adventure   |           1 |
+| Action|Thriller|Science Fiction|Mystery             |           1 |
+| Action|Thriller|Science Fiction|Horror              |           1 |
+| Action|Thriller|Science Fiction|Foreign             |           1 |
+| Action|Thriller|Science Fiction|Crime|Horror        |           1 |
+| Action|Thriller|Mystery|Romance                     |           1 |
+| Action|Thriller|Music                               |           1 |
+| Action|Thriller|Horror                              |           1 |
+| Action|Thriller|Foreign                             |           1 |
+| Action|Thriller|Fantasy|Crime                       |           1 |
+| Action|Thriller|Fantasy                             |           1 |
+| Action|Thriller|Drama|Western|Crime                 |           1 |
+| Action|Thriller|Drama|Crime                         |           1 |
+| Action|Thriller|Crime|Foreign                       |           1 |
+| Action|Thriller|Crime|Adventure                     |           1 |
+| Action|Thriller|Comedy|Crime                        |           1 |
+| Action|Thriller|Adventure|Science Fiction           |           1 |
+| Action|Science Fiction|Thriller|Western             |           1 |
+| Action|Science Fiction|Thriller|War                 |           1 |
+| Action|Science Fiction|Thriller|Horror|Fantasy      |           1 |
+| Action|Science Fiction|Thriller|Crime               |           1 |
+| Action|Science Fiction|Thriller|Adventure|Horror    |           1 |
+| Action|Science Fiction|Horror                       |           1 |
+| Action|Science Fiction|Drama                        |           1 |
+| Action|Science Fiction|Crime                        |           1 |
+| Action|Science Fiction|Adventure|Mystery            |           1 |
+| Action|Science Fiction|Adventure|Comedy|Family      |           1 |
+| Action|Romance|Thriller                             |           1 |
+| Action|Mystery|Science Fiction                      |           1 |
+| Action|Horror|Mystery|Thriller                      |           1 |
+| Action|Horror|Mystery|Science Fiction|Thriller      |           1 |
+| Action|Horror|Fantasy                               |           1 |
+| Action|Horror|Crime                                 |           1 |
+| Action|Horror|Comedy|Science Fiction|Thriller       |           1 |
+| Action|History|Drama                                |           1 |
+| Action|Foreign|Horror|Thriller                      |           1 |
+| Action|Foreign|Fantasy                              |           1 |
+| Action|Fantasy|Science Fiction|Adventure|Thriller   |           1 |
+| Action|Fantasy|Mystery                              |           1 |
+| Action|Fantasy|Horror|Thriller                      |           1 |
+| Action|Fantasy|Horror|Science Fiction|Thriller      |           1 |
+| Action|Fantasy|Horror|Mystery                       |           1 |
+| Action|Fantasy|Comedy|Science Fiction               |           1 |
+| Action|Fantasy|Comedy|Horror|Mystery                |           1 |
+| Action|Family|Science Fiction|Adventure|Mystery     |           1 |
+| Action|Family|Science Fiction                       |           1 |
+| Action|Family|Adventure|Romance|TV Movie            |           1 |
+| Action|Family                                       |           1 |
+| Action|Drama|War|Thriller                           |           1 |
+| Action|Drama|Science Fiction                        |           1 |
+| Action|Drama|Romance|TV Movie                       |           1 |
+| Action|Drama|Horror|Mystery|Thriller                |           1 |
+| Action|Drama|History|Western                        |           1 |
+| Action|Drama|History|Thriller|War                   |           1 |
+| Action|Drama|History|Thriller                       |           1 |
+| Action|Drama|History|Romance|War                    |           1 |
+| Action|Drama|Foreign|Thriller                       |           1 |
+| Action|Drama|Foreign|Science Fiction|Thriller       |           1 |
+| Action|Drama|Foreign|Mystery|Thriller               |           1 |
+| Action|Drama|Foreign|History|War                    |           1 |
+| Action|Drama|Foreign|History|Thriller               |           1 |
+| Action|Drama|Foreign|History                        |           1 |
+| Action|Drama|Fantasy|Horror|Thriller                |           1 |
+| Action|Drama|Fantasy|Horror                         |           1 |
+| Action|Drama|Fantasy                                |           1 |
+| Action|Drama|Family|Thriller                        |           1 |
+| Action|Drama|Family|History|War                     |           1 |
+| Action|Drama|Crime|Thriller                         |           1 |
+| Action|Drama|Adventure                              |           1 |
+| Action|Documentary|Science Fiction                  |           1 |
+| Action|Documentary                                  |           1 |
+| Action|Crime|Western                                |           1 |
+| Action|Crime|Music|Fantasy|Thriller                 |           1 |
+| Action|Crime|Foreign|Thriller                       |           1 |
+| Action|Crime|Fantasy|Science Fiction|Thriller       |           1 |
+| Action|Crime|Fantasy|Science Fiction                |           1 |
+| Action|Crime|Drama|Western                          |           1 |
+| Action|Crime|Drama|Thriller|Western                 |           1 |
+| Action|Crime|Drama|Romance                          |           1 |
+| Action|Crime|Drama|Music|Thriller                   |           1 |
+| Action|Crime|Drama|History                          |           1 |
+| Action|Crime|Drama|Comedy|Thriller                  |           1 |
+| Action|Crime|Comedy|Romance                         |           1 |
+| Action|Crime|Adventure                              |           1 |
+| Action|Comedy|Thriller|Family                       |           1 |
+| Action|Comedy|Thriller|Crime|Science Fiction        |           1 |
+| Action|Comedy|Thriller|Crime|Mystery                |           1 |
+| Action|Comedy|Science Fiction|Fantasy               |           1 |
+| Action|Comedy|Romance|Science Fiction|Thriller      |           1 |
+| Action|Comedy|Romance|Foreign                       |           1 |
+| Action|Comedy|Mystery|Thriller                      |           1 |
+| Action|Comedy|Mystery|Romance|Thriller              |           1 |
+| Action|Comedy|Music|Family|Adventure                |           1 |
+| Action|Comedy|Music                                 |           1 |
+| Action|Comedy|Horror|Western                        |           1 |
+| Action|Comedy|Horror|Thriller                       |           1 |
+| Action|Comedy|Horror|Mystery|Science Fiction        |           1 |
+| Action|Comedy|Fantasy                               |           1 |
+| Action|Comedy|Family|Science Fiction                |           1 |
+| Action|Comedy|Family|Adventure                      |           1 |
+| Action|Comedy|Drama|War                             |           1 |
+| Action|Comedy|Drama|Science Fiction                 |           1 |
+| Action|Comedy|Drama|Romance|Western                 |           1 |
+| Action|Comedy|Drama|Romance|War                     |           1 |
+| Action|Comedy|Drama|Romance|Thriller                |           1 |
+| Action|Comedy|Drama|Mystery|Thriller                |           1 |
+| Action|Comedy|Drama|Horror|Science Fiction          |           1 |
+| Action|Comedy|Drama|History                         |           1 |
+| Action|Comedy|Drama|Foreign|Romance                 |           1 |
+| Action|Comedy|Drama|Fantasy|Science Fiction         |           1 |
+| Action|Comedy|Drama|Family|Thriller                 |           1 |
+| Action|Comedy|Documentary                           |           1 |
+| Action|Comedy|Crime|Mystery|Thriller                |           1 |
+| Action|Comedy|Crime|Mystery|Family                  |           1 |
+| Action|Comedy|Crime|Drama|Music                     |           1 |
+| Action|Comedy|Animation                             |           1 |
+| Action|Comedy|Adventure                             |           1 |
+| Action|Animation|Thriller                           |           1 |
+| Action|Animation|Science Fiction|Thriller           |           1 |
+| Action|Animation|Horror                             |           1 |
+| Action|Animation|Fantasy|Horror                     |           1 |
+| Action|Animation|Fantasy                            |           1 |
+| Action|Animation|Family|Fantasy|Science Fiction     |           1 |
+| Action|Animation|Drama|Fantasy|Thriller             |           1 |
+| Action|Animation|Crime                              |           1 |
+| Action|Animation|Comedy|Crime|Drama                 |           1 |
+| Action|Animation|Comedy                             |           1 |
+| Action|Animation|Adventure                          |           1 |
+| Action|Adventure|War|Western                        |           1 |
+| Action|Adventure|War|Thriller                       |           1 |
+| Action|Adventure|Thriller|Science Fiction           |           1 |
+| Action|Adventure|Thriller|Romance                   |           1 |
+| Action|Adventure|Thriller|Drama                     |           1 |
+| Action|Adventure|Science Fiction|Thriller|Horror    |           1 |
+| Action|Adventure|Science Fiction|Romance            |           1 |
+| Action|Adventure|Science Fiction|Family|Fantasy     |           1 |
+| Action|Adventure|Science Fiction|Family             |           1 |
+| Action|Adventure|Science Fiction|Comedy             |           1 |
+| Action|Adventure|Romance|Thriller                   |           1 |
+| Action|Adventure|Romance|Science Fiction|Thriller   |           1 |
+| Action|Adventure|Romance                            |           1 |
+| Action|Adventure|Mystery|Science Fiction|Thriller   |           1 |
+| Action|Adventure|Horror|Science Fiction|Foreign     |           1 |
+| Action|Adventure|Horror                             |           1 |
+| Action|Adventure|History|War                        |           1 |
+| Action|Adventure|History|Romance|Drama              |           1 |
+| Action|Adventure|Foreign|Thriller                   |           1 |
+| Action|Adventure|Fantasy|War                        |           1 |
+| Action|Adventure|Fantasy|Thriller                   |           1 |
+| Action|Adventure|Fantasy|Romance                    |           1 |
+| Action|Adventure|Family|TV Movie                    |           1 |
+| Action|Adventure|Family|Foreign                     |           1 |
+| Action|Adventure|Family                             |           1 |
+| Action|Adventure|Drama|War|Romance                  |           1 |
+| Action|Adventure|Drama|Thriller|Western             |           1 |
+| Action|Adventure|Drama|Thriller|War                 |           1 |
+| Action|Adventure|Drama|Science Fiction              |           1 |
+| Action|Adventure|Drama|Romance|Thriller             |           1 |
+| Action|Adventure|Drama|Mystery|Thriller             |           1 |
+| Action|Adventure|Drama|Mystery|Romance              |           1 |
+| Action|Adventure|Drama|Horror|Thriller              |           1 |
+| Action|Adventure|Drama|History|TV Movie             |           1 |
+| Action|Adventure|Drama|Foreign|History              |           1 |
+| Action|Adventure|Drama|Foreign                      |           1 |
+| Action|Adventure|Drama|Fantasy|Science Fiction      |           1 |
+| Action|Adventure|Drama|Fantasy|Horror               |           1 |
+| Action|Adventure|Drama|Fantasy|Family               |           1 |
+| Action|Adventure|Drama|Fantasy                      |           1 |
+| Action|Adventure|Drama|Family|Fantasy               |           1 |
+| Action|Adventure|Crime|Romance|Thriller             |           1 |
+| Action|Adventure|Crime|Family|Mystery               |           1 |
+| Action|Adventure|Crime|Drama|Romance                |           1 |
+| Action|Adventure|Crime|Drama|Fantasy                |           1 |
+| Action|Adventure|Crime|Drama|Family                 |           1 |
+| Action|Adventure|Comedy|Thriller|Crime              |           1 |
+| Action|Adventure|Comedy|Fantasy|Science Fiction     |           1 |
+| Action|Adventure|Comedy|Family|Thriller             |           1 |
+| Action|Adventure|Comedy|Family|Music                |           1 |
+| Action|Adventure|Comedy|Drama|War                   |           1 |
+| Action|Adventure|Comedy|Drama|Thriller              |           1 |
+| Action|Adventure|Comedy|Drama|Romance               |           1 |
+| Action|Adventure|Comedy|Drama|Mystery               |           1 |
+| Action|Adventure|Comedy|Crime|Romance               |           1 |
+| Action|Adventure|Comedy|Crime|Foreign               |           1 |
+| Action|Adventure|Animation|Science Fiction|Thriller |           1 |
+| Action|Adventure|Animation|Science Fiction|Crime    |           1 |
+| Action|Adventure|Animation|Fantasy|Horror           |           1 |
+| Action|Adventure|Animation|Fantasy                  |           1 |
+| Action|Adventure|Animation|Family|Mystery           |           1 |
+| Action|Adventure|Animation|Drama|Family             |           1 |
+| Action|Adventure|Animation|Comedy|Family            |           1 |
+| Action|Adventure|Animation|Comedy|Drama             |           1 |
